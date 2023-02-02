@@ -1,0 +1,108 @@
+{
+  "categories": [
+    {
+      "name": "Без сырого",
+      "hover_color": "rgba(255,255,255,1)",
+      "as_highlight": false,
+      "slug": "bez-syirogo",
+      "image": "https://storage.yandexcloud.net/cdn-release/menu/sitetags/ZY/DVY51LpQyeb510c6de6d806e6f27093b92ed9066af9d7474b.svg",
+      "hover_background_color": "rgba(255,111,00,0.7)"
+    },
+    {
+      "name": "Классические роллы",
+      "hover_color": "",
+      "as_highlight": false,
+      "slug": "klassika",
+      "image": "",
+      "hover_background_color": ""
+    },
+    {
+      "name": "Наш выбор",
+      "hover_color": "rgba(255,255,255,1)",
+      "as_highlight": false,
+      "slug": "nash-vybor",
+      "image": "https://storage.yandexcloud.net/cdn-release/menu/sitetags/xv/DVY51LAyJd8632f6fd65f5652b91962eae0619ebadfa0c597.svg",
+      "hover_background_color": "rgba(52,154,229,0.7)"
+    },
+    {
+      "name": "Премиум",
+      "hover_color": "rgba(255,255,255,1)",
+      "as_highlight": false,
+      "slug": "premium",
+      "image": "https://storage.yandexcloud.net/cdn-release/menu/sitetags/Yv/DVY51LAyJ04b5503874878d7eba90e6ab524baf8d5ecb7965.svg",
+      "hover_background_color": "rgba(44,44,44,0.7)"
+    },
+    {
+      "name": "Запеченные",
+      "hover_color": "",
+      "as_highlight": false,
+      "slug": "zapechenyie",
+      "image": "",
+      "hover_background_color": ""
+    },
+    {
+      "name": "Острое",
+      "hover_color": "rgba(255,255,255,1)",
+      "as_highlight": false,
+      "slug": "ostroe",
+      "image": "https://storage.yandexcloud.net/cdn-release/menu/sitetags/Bz/DVY51LAyJa79399a4b33f0cb66d033672d6792dd3999815a7.svg",
+      "hover_background_color": "rgba(201,00,00,0.7)"
+    },
+    {
+      "name": "Самовывоз",
+      "hover_color": null,
+      "as_highlight": false,
+      "slug": "samovyvoz",
+      "image": "",
+      "hover_background_color": null
+    },
+    {
+      "name": "Филадельфии",
+      "hover_color": "",
+      "as_highlight": false,
+      "slug": "filadelfii",
+      "image": "",
+      "hover_background_color": ""
+    },
+    {
+      "name": "Наизнанку",
+      "hover_color": "",
+      "as_highlight": false,
+      "slug": "naiznanku",
+      "image": "",
+      "hover_background_color": ""
+    },
+    {
+      "name": "Блюдо недели",
+      "hover_color": "rgba(255,255,255,1)",
+      "as_highlight": false,
+      "slug": "nedeli",
+      "image": "https://storage.yandexcloud.net/cdn-release/menu/sitetags/rJ/DVY51LAyJ748d30e6b0655ccac115bb090082c662471b0530.svg",
+      "hover_background_color": "rgba(255,0,0,0.7)"
+    },
+    {
+      "name": "Темпурные",
+      "hover_color": "rgba(255,255,255,1)",
+      "as_highlight": false,
+      "slug": "tempurnyie",
+      "image": "https://storage.yandexcloud.net/cdn-release/menu/sitetags/7A/DVY51LpQy93f00eedaf2714956f180e996a56d569c9dc43d6.svg",
+      "hover_background_color": "rgba(232,124,0,0.7)"
+    },
+    {
+      "name": "Хит!",
+      "hover_color": "rgba(255,255,255,1)",
+      "as_highlight": false,
+      "slug": "hit",
+      "image": "https://storage.yandexcloud.net/cdn-release/menu/sitetags/E9/DVY51LAyJ457c1343e5f2caa6f71f965e4e629884a6a15609.svg",
+      "hover_background_color": "rgba(189,16,224,0.7)"
+    },
+    {
+      "name": "C Филадельфией",
+      "hover_color": "",
+      "as_highlight": false,
+      "slug": "c-filadelfiej",
+      "image": "",
+      "hover_background_color": ""
+    }
+  ]
+}

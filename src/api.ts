@@ -1,0 +1,1 @@
+export const data: string = 'https://api.farfor.ru/v3/842b03f5-7db9-4850-9cb1-407f894abf5e/tambov/categories/pizza/'

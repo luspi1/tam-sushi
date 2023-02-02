@@ -1,0 +1,32 @@
+.header {
+    padding: 10px 0;
+}
+
+.headerTop {
+    border-bottom: 1px solid #FFBA08;
+}
+
+.headerTopLogo {
+    width: 100px;
+    height: 100px;
+}
+
+.headerTopList {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.headerTopList a {
+    font-size: 18px;
+    color: #ffffff;
+    transition: all .3s;
+}
+
+.headerTopList a:hover {
+    color: #FFBA08;
+    text-decoration: underline;
+}
+
+
