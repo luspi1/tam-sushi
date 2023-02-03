@@ -1,6 +1,6 @@
 import React, { FC, useEffect, useState } from 'react'
 import styles from './style.module.css'
-import { HomeCategories } from '../../../../modules/HomeCategories/components'
+import { HomeCategories } from '../../../../modules/HomeCategories'
 
 const Home: FC = () => {
 

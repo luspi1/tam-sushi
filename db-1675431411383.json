@@ -23,8 +23,7 @@
     {
       "category_id": 18,
       "name": "Филадельфия лайт",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -36,16 +35,16 @@
           "full_name": "Филадельфия лайт",
           "sizes": "195 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 7.0,
-            "carbohydrate": 24.0,
-            "calorific": 196.0
+            "fat": 8,
+            "protein": 7,
+            "carbohydrate": 24,
+            "calorific": 196
           },
-          "price": 359.0,
+          "price": 359,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1707,
-          "weight": 195.0,
+          "weight": 195,
           "description": "Лосось, огурец, сыр сливочный.",
           "slug": "filadelfiya-light",
           "image": "https://cdn.farfor.ru/media/cache/94/02/9402a24e73f71e4fc784a4567d09ca28.jpg"
@@ -58,24 +57,24 @@
           "full_name": "Филадельфия лайт: 1/2",
           "sizes": "1/2 97 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 7.0,
-            "carbohydrate": 24.0,
-            "calorific": 196.0
+            "fat": 8,
+            "protein": 7,
+            "carbohydrate": 24,
+            "calorific": 196
           },
-          "price": 199.0,
+          "price": 199,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 4414,
-          "weight": 97.0,
+          "weight": 97,
           "description": "Лосось, огурец, сыр сливочный.",
           "slug": "filadelfiya-light-1-2",
           "image": "https://cdn.farfor.ru/media/cache/7c/65/7c658d7b1f7ef487eb0459d5210b6ef5.jpg"
         }
       ],
       "marking_composition": "Лосось, огурец, сыр сливочный, рис, нори.",
-      "price": 359.0,
-      "weight": 195.0,
+      "price": 359,
+      "weight": 195,
       "id": 1707,
       "category_slug": "japan/rolly",
       "detail_id": 302,
@@ -113,8 +112,7 @@
     {
       "category_id": 18,
       "name": "Темпурный запечённый Цезарь",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -126,16 +124,16 @@
           "full_name": "Темпурный запечённый Цезарь",
           "sizes": "289 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 10.0,
-            "carbohydrate": 27.0,
-            "calorific": 247.0
+            "fat": 11,
+            "protein": 10,
+            "carbohydrate": 27,
+            "calorific": 247
           },
-          "price": 279.0,
+          "price": 279,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 17927,
-          "weight": 289.0,
+          "weight": 289,
           "description": "Жареная курица, пекинская капуста, помидор, мука, кляр, сухари панко, соус унаги, белый кунжут, соус цезарь (майонез, филе сельди слабосоленое, чеснок сушеный, лимонная кислота, сыр пармезан) ",
           "slug": "cesar-tempura",
           "image": "https://cdn.farfor.ru/media/cache/c8/e4/c8e468116c7dfccd344148495827724b.png"
@@ -148,24 +146,24 @@
           "full_name": "Темпурный запечённый Цезарь: 1/2",
           "sizes": "1/2 144 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 10.0,
-            "carbohydrate": 27.0,
-            "calorific": 247.0
+            "fat": 11,
+            "protein": 10,
+            "carbohydrate": 27,
+            "calorific": 247
           },
-          "price": 159.0,
+          "price": 159,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25473,
-          "weight": 144.0,
+          "weight": 144,
           "description": "Жареная курица, пекинская капуста, помидор, мука, кляр, сухари панко, соус унаги, белый кунжут, соус цезарь (майонез, филе сельди слабосоленое, чеснок сушеный, лимонная кислота, сыр пармезан) ",
           "slug": "cesar-tempura-12",
           "image": "https://cdn.farfor.ru/media/cache/71/2a/712aa7e416eaae3cbad8d20e1f9ed13e.png"
         }
       ],
       "marking_composition": "Жареная курица, пекинская капуста, помидор, мука, кляр, сухари панко, соус унаги, белый кунжут, соус цезарь (майонез, филе сельди слабосоленое, чеснок сушеный, лимонная кислота, сыр пармезан) ",
-      "price": 279.0,
-      "weight": 289.0,
+      "price": 279,
+      "weight": 289,
       "id": 17927,
       "category_slug": "japan/rolly",
       "detail_id": 1724,
@@ -227,8 +225,7 @@
     {
       "category_id": 18,
       "name": "Мидори",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -240,16 +237,16 @@
           "full_name": "Мидори",
           "sizes": "226 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 10.0,
-            "carbohydrate": 26.0,
-            "calorific": 225.0
+            "fat": 9,
+            "protein": 10,
+            "carbohydrate": 26,
+            "calorific": 225
           },
-          "price": 299.0,
+          "price": 299,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 15187,
-          "weight": 226.0,
+          "weight": 226,
           "description": "Кунжут белый, тунец, такуан, сыр сливочный, соус васаби микс, икра масаго оранжевая, кунжут черный.",
           "slug": "midori",
           "image": "https://cdn.farfor.ru/media/cache/02/8d/028d1cf68f98dd61551e72ff39565541.jpg"
@@ -262,24 +259,24 @@
           "full_name": "Мидори: 1/2",
           "sizes": "1/2 113 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 10.0,
-            "carbohydrate": 26.0,
-            "calorific": 225.0
+            "fat": 9,
+            "protein": 10,
+            "carbohydrate": 26,
+            "calorific": 225
           },
-          "price": 169.0,
+          "price": 169,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 28923,
-          "weight": 113.0,
+          "weight": 113,
           "description": "Кунжут белый, тунец, такуан, сыр сливочный, соус васаби микс, икра масаго оранжевая, кунжут черный.",
           "slug": "midori-1-2",
           "image": "https://cdn.farfor.ru/media/cache/79/23/7923d98326c9bdde066c3a4110d3ab38.jpg"
         }
       ],
       "marking_composition": "Кунжут белый, тунец, такуан, сыр сливочный, соус васаби микс, икра масаго оранжевая, кунжут черный.",
-      "price": 299.0,
-      "weight": 226.0,
+      "price": 299,
+      "weight": 226,
       "id": 15187,
       "category_slug": "japan/rolly",
       "detail_id": 1542,
@@ -301,8 +298,7 @@
     {
       "category_id": 18,
       "name": "Теплый",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -314,16 +310,16 @@
           "full_name": "Теплый",
           "sizes": "239 г",
           "nutritional_values": {
-            "fat": 6.0,
-            "protein": 9.0,
-            "carbohydrate": 32.0,
-            "calorific": 218.0
+            "fat": 6,
+            "protein": 9,
+            "carbohydrate": 32,
+            "calorific": 218
           },
-          "price": 269.0,
+          "price": 269,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 23261,
-          "weight": 239.0,
+          "weight": 239,
           "description": "Сыр сливочный, тунец, лук зеленый, кляр, сухари панировочные, соус сырный Heinz, соус васаби микс, соус унаги, рисовые шарики.",
           "slug": "teplyi",
           "image": "https://cdn.farfor.ru/media/cache/36/17/361772de85ddac8eba697cca906b57c4.jpg"
@@ -336,24 +332,24 @@
           "full_name": "Теплый: 1/2",
           "sizes": "1/2 119 г",
           "nutritional_values": {
-            "fat": 6.0,
-            "protein": 9.0,
-            "carbohydrate": 32.0,
-            "calorific": 218.0
+            "fat": 6,
+            "protein": 9,
+            "carbohydrate": 32,
+            "calorific": 218
           },
-          "price": 149.0,
+          "price": 149,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 28908,
-          "weight": 119.0,
+          "weight": 119,
           "description": "Сыр сливочный, тунец, лук зеленый, кляр, сухари панировочные, соус сырный Heinz, соус васаби микс, соус унаги, рисовые шарики.",
           "slug": "teplyi-05",
           "image": "https://cdn.farfor.ru/media/cache/03/08/030880343006f052a057a25f6b8d2e07.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, тунец, лук зеленый, кляр, сухари панировочные, соус сырный Heinz, соус васаби микс, соус унаги, рисовые шарики.",
-      "price": 269.0,
-      "weight": 239.0,
+      "price": 269,
+      "weight": 239,
       "id": 23261,
       "category_slug": "japan/rolly",
       "detail_id": 2457,
@@ -375,8 +371,7 @@
     {
       "category_id": 18,
       "name": "Лосось и манго",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -388,16 +383,16 @@
           "full_name": "Лосось и манго",
           "sizes": "192 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 6.0,
-            "carbohydrate": 27.0,
-            "calorific": 195.0
+            "fat": 7,
+            "protein": 6,
+            "carbohydrate": 27,
+            "calorific": 195
           },
-          "price": 349.0,
+          "price": 349,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25075,
-          "weight": 192.0,
+          "weight": 192,
           "description": "Лосось темпура, соус манго-маракуйя, сыр сливочный, нити чили сушеные, кунжут черный.",
           "slug": "lososmango",
           "image": "https://cdn.farfor.ru/media/cache/cb/c4/cbc471f1480a40f843aab4c408558d3d.jpg"
@@ -410,24 +405,24 @@
           "full_name": "Лосось и манго: 1/2",
           "sizes": "1/2 96 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 6.0,
-            "carbohydrate": 27.0,
-            "calorific": 195.0
+            "fat": 7,
+            "protein": 6,
+            "carbohydrate": 27,
+            "calorific": 195
           },
-          "price": 189.0,
+          "price": 189,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25425,
-          "weight": 96.0,
+          "weight": 96,
           "description": "Лосось темпура, соус манго-маракуйя, сыр сливочный, нити чили сушеные, кунжут черный.",
           "slug": "lososmango-12",
           "image": "https://cdn.farfor.ru/media/cache/81/ca/81cad34a39c9ea1be836fedeacd2c6be.jpg"
         }
       ],
       "marking_composition": "Лосось темпура, соус манго-маракуйя, сыр сливочный, нити чили сушеные, кунжут черный.",
-      "price": 349.0,
-      "weight": 192.0,
+      "price": 349,
+      "weight": 192,
       "id": 25075,
       "category_slug": "japan/rolly",
       "detail_id": 3142,
@@ -465,8 +460,7 @@
     {
       "category_id": 18,
       "name": "Техасская резня",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -478,16 +472,16 @@
           "full_name": "Техасская резня",
           "sizes": "249 г",
           "nutritional_values": {
-            "fat": 4.0,
-            "protein": 8.0,
-            "carbohydrate": 47.0,
-            "calorific": 256.0
+            "fat": 4,
+            "protein": 8,
+            "carbohydrate": 47,
+            "calorific": 256
           },
-          "price": 269.0,
+          "price": 269,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 23264,
-          "weight": 249.0,
+          "weight": 249,
           "description": "Сыр сливочный, Филе куриное варено-копченое, Помидор, Кляр, Сухари панировочные,  Соус Гриль хайнс, Соус унаги, Белый кунжут",
           "slug": "texas-reznya",
           "image": "https://cdn.farfor.ru/media/cache/68/65/6865f3162c5e1a6851e77e9f81f608cb.jpg"
@@ -500,24 +494,24 @@
           "full_name": "Техасская резня: 1/2",
           "sizes": "1/2 124 г",
           "nutritional_values": {
-            "fat": 4.0,
-            "protein": 8.0,
-            "carbohydrate": 47.0,
-            "calorific": 256.0
+            "fat": 4,
+            "protein": 8,
+            "carbohydrate": 47,
+            "calorific": 256
           },
-          "price": 149.0,
+          "price": 149,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25497,
-          "weight": 124.0,
+          "weight": 124,
           "description": "Сыр сливочный, Филе куриное варено-копченое, Помидор, Кляр, Сухари панировочные,  Соус Гриль хайнс, Соус унаги, Белый кунжут",
           "slug": "texas-reznya-12",
           "image": "https://cdn.farfor.ru/media/cache/dc/de/dcdee5a4962497d6602a054634b4d4ab.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, Филе куриное варено-копченое, Помидор, Кляр, Сухари панировочные,  Соус Гриль хайнс, Соус унаги, Белый кунжут",
-      "price": 269.0,
-      "weight": 249.0,
+      "price": 269,
+      "weight": 249,
       "id": 23264,
       "category_slug": "japan/rolly",
       "detail_id": 2627,
@@ -571,8 +565,7 @@
     {
       "category_id": 18,
       "name": "Дикий лосось",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -584,16 +577,16 @@
           "full_name": "Дикий лосось",
           "sizes": "250 г",
           "nutritional_values": {
-            "fat": 13.0,
-            "protein": 6.0,
-            "carbohydrate": 22.0,
-            "calorific": 229.0
+            "fat": 13,
+            "protein": 6,
+            "carbohydrate": 22,
+            "calorific": 229
           },
-          "price": 429.0,
+          "price": 429,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 27065,
-          "weight": 250.0,
+          "weight": 250,
           "description": "Лососевый соус (лосось, сырный соус, соус свит чили, кунжутное масло, кунжут черный), огурец, соус спайси, сыр сливочный, жареные лепестки миндаля.",
           "slug": "dikii-losos",
           "image": "https://cdn.farfor.ru/media/cache/b7/32/b7321f118903407e0299ec815a4e68a4.jpg"
@@ -606,24 +599,24 @@
           "full_name": "Дикий лосось: 1/2",
           "sizes": "1/2 125 г",
           "nutritional_values": {
-            "fat": 13.0,
-            "protein": 6.0,
-            "carbohydrate": 22.0,
-            "calorific": 229.0
+            "fat": 13,
+            "protein": 6,
+            "carbohydrate": 22,
+            "calorific": 229
           },
-          "price": 229.0,
+          "price": 229,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 27069,
-          "weight": 125.0,
+          "weight": 125,
           "description": "Лососевый соус (лосось, сырный соус, соус свит чили, кунжутное масло, кунжут черный), огурец, соус спайси, сыр сливочный, жареные лепестки миндаля.",
           "slug": "dikii-losos-1-2",
           "image": "https://cdn.farfor.ru/media/cache/5c/58/5c58f38a57363d624fd7226d112bed53.jpg"
         }
       ],
       "marking_composition": "Лососевый соус (лосось, сырный соус, соус свит чили, кунжутное масло, кунжут черный), огурец, соус спайси, сыр сливочный, жареные лепестки миндаля.",
-      "price": 429.0,
-      "weight": 250.0,
+      "price": 429,
+      "weight": 250,
       "id": 27065,
       "category_slug": "japan/rolly",
       "detail_id": 3750,
@@ -661,8 +654,7 @@
     {
       "category_id": 18,
       "name": "Кимпаб с тунцом",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 10,
       "modifications": [
@@ -674,16 +666,16 @@
           "full_name": "Кимпаб с тунцом",
           "sizes": "287 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 8.0,
-            "carbohydrate": 21.0,
-            "calorific": 179.0
+            "fat": 7,
+            "protein": 8,
+            "carbohydrate": 21,
+            "calorific": 179
           },
-          "price": 299.0,
+          "price": 299,
           "mode": "10 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 29811,
-          "weight": 287.0,
+          "weight": 287,
           "description": "Сыр сливочный, морковь, соус Кимчи, масло кунжутное, огурец, тунец, соус спайси",
           "slug": "kimpab-s-tuntsom",
           "image": "https://cdn.farfor.ru/media/cache/d7/f6/d7f6661686d9659ff080d457b0c695cd.jpg"
@@ -696,24 +688,24 @@
           "full_name": "Кимпаб с тунцом: 1/2",
           "sizes": "1/2 143 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 8.0,
-            "carbohydrate": 21.0,
-            "calorific": 179.0
+            "fat": 7,
+            "protein": 8,
+            "carbohydrate": 21,
+            "calorific": 179
           },
-          "price": 169.0,
+          "price": 169,
           "mode": "5 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 33766,
-          "weight": 143.0,
+          "weight": 143,
           "description": "Сыр сливочный, морковь, соус Кимчи, масло кунжутное, огурец, тунец, соус спайси",
           "slug": "kimpab-s-tuntsom-1-2",
           "image": "https://cdn.farfor.ru/media/cache/27/ef/27ef66a1678d585cbd3c9da652871c9d.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, морковь, соус Кимчи, масло кунжутное, огурец, тунец, соус спайси",
-      "price": 299.0,
-      "weight": 287.0,
+      "price": 299,
+      "weight": 287,
       "id": 29811,
       "category_slug": "japan/rolly",
       "detail_id": 4245,
@@ -735,8 +727,7 @@
     {
       "category_id": 18,
       "name": "Малибу",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -748,16 +739,16 @@
           "full_name": "Малибу",
           "sizes": "247 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 7.0,
-            "carbohydrate": 31.0,
-            "calorific": 215.0
+            "fat": 7,
+            "protein": 7,
+            "carbohydrate": 31,
+            "calorific": 215
           },
-          "price": 289.0,
+          "price": 289,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 28432,
-          "weight": 247.0,
+          "weight": 247,
           "description": "Сыр сливочный, куриное филе жареное, лук зеленый, кляр, сухари панко, соус том ям, соус унаги, белый кунжут.",
           "slug": "maliboo",
           "image": "https://cdn.farfor.ru/media/cache/3c/73/3c73ed0adb09b773f9f06cdea6efbff3.jpg"
@@ -770,24 +761,24 @@
           "full_name": "Малибу: 1/2",
           "sizes": "1/2 123 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 7.0,
-            "carbohydrate": 31.0,
-            "calorific": 215.0
+            "fat": 7,
+            "protein": 7,
+            "carbohydrate": 31,
+            "calorific": 215
           },
-          "price": 159.0,
+          "price": 159,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 28917,
-          "weight": 123.0,
+          "weight": 123,
           "description": "Сыр сливочный, куриное филе жареное, лук зеленый, кляр, сухари панко, соус том ям, соус унаги, белый кунжут.",
           "slug": "maliboo-1-2",
           "image": "https://cdn.farfor.ru/media/cache/d3/bc/d3bcd0142039e3f8832752c220e08f56.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, куриное филе жареное, лук зеленый, кляр, сухари панко, соус том ям, соус унаги, белый кунжут.",
-      "price": 289.0,
-      "weight": 247.0,
+      "price": 289,
+      "weight": 247,
       "id": 28432,
       "category_slug": "japan/rolly",
       "detail_id": 3916,
@@ -809,8 +800,7 @@
     {
       "category_id": 18,
       "name": "Кимпаб с креветками",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 10,
       "modifications": [
@@ -822,16 +812,16 @@
           "full_name": "Кимпаб с креветками",
           "sizes": "297 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 5.0,
-            "carbohydrate": 22.0,
-            "calorific": 171.0
+            "fat": 7,
+            "protein": 5,
+            "carbohydrate": 22,
+            "calorific": 171
           },
-          "price": 349.0,
+          "price": 349,
           "mode": "10 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 33737,
-          "weight": 297.0,
+          "weight": 297,
           "description": "Сыр сливочный, Креветки темпура, Салат чука, Огурец, Соус спайси",
           "slug": "kimpab-s-krevetkami",
           "image": "https://cdn.farfor.ru/media/cache/98/df/98df318737196e25334fb49e967fe17e.jpg"
@@ -844,24 +834,24 @@
           "full_name": "Кимпаб с креветками: 1/2",
           "sizes": "1/2 148 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 5.0,
-            "carbohydrate": 22.0,
-            "calorific": 171.0
+            "fat": 7,
+            "protein": 5,
+            "carbohydrate": 22,
+            "calorific": 171
           },
-          "price": 189.0,
+          "price": 189,
           "mode": "5 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 33755,
-          "weight": 148.0,
+          "weight": 148,
           "description": "Сыр сливочный, Креветки темпура, Салат чука, Огурец, Соус спайси",
           "slug": "kimpab-s-krevetkami-1-2",
           "image": "https://cdn.farfor.ru/media/cache/b1/c7/b1c730949762528d25628a4bc80c869e.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, Креветки темпура, Салат чука, Огурец, Соус спайси",
-      "price": 349.0,
-      "weight": 297.0,
+      "price": 349,
+      "weight": 297,
       "id": 33737,
       "category_slug": "japan/rolly",
       "detail_id": 4489,
@@ -883,8 +873,7 @@
     {
       "category_id": 18,
       "name": "Таманеги",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -896,16 +885,16 @@
           "full_name": "Таманеги",
           "sizes": "164 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 6.0,
-            "carbohydrate": 26.0,
-            "calorific": 191.0
+            "fat": 7,
+            "protein": 6,
+            "carbohydrate": 26,
+            "calorific": 191
           },
-          "price": 289.0,
+          "price": 289,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 29798,
-          "weight": 164.0,
+          "weight": 164,
           "description": "Лосось филе, сыр сливочный, лук зеленый",
           "slug": "tamanegi",
           "image": "https://cdn.farfor.ru/media/cache/dc/e9/dce9da59d0aa64703e1090b67831ded8.jpg"
@@ -918,29 +907,28 @@
           "full_name": "Таманеги: 1/2",
           "sizes": "1/2 82 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 6.0,
-            "carbohydrate": 26.0,
-            "calorific": 191.0
+            "fat": 7,
+            "protein": 6,
+            "carbohydrate": 26,
+            "calorific": 191
           },
-          "price": 159.0,
+          "price": 159,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 29803,
-          "weight": 82.0,
+          "weight": 82,
           "description": "Лосось филе, сыр сливочный, лук зеленый",
           "slug": "tamanegi-12",
           "image": "https://cdn.farfor.ru/media/cache/4b/26/4b268a9d643b980ff5c060e215df3e20.jpg"
         }
       ],
       "marking_composition": "Лосось филе, сыр сливочный, лук зеленый",
-      "price": 289.0,
-      "weight": 164.0,
+      "price": 289,
+      "weight": 164,
       "id": 29798,
       "category_slug": "japan/rolly",
       "detail_id": 4242,
-      "tags": [
-      ],
+      "tags": [],
       "parent_id": null,
       "description": "Лосось филе, сыр сливочный, лук зеленый",
       "slug": "tamanegi",
@@ -949,8 +937,7 @@
     {
       "category_id": 18,
       "name": "Фокус",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -965,13 +952,13 @@
             "fat": 11.5,
             "protein": 6.9,
             "carbohydrate": 15.8,
-            "calorific": 194.0
+            "calorific": 194
           },
-          "price": 289.0,
+          "price": 289,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1709,
-          "weight": 221.0,
+          "weight": 221,
           "description": "Филе куриное  варено-копченое, помидор, сыр моцарелла, черный кунжут, сыр сливочный, соус сырный, соус унаги, белый кунжут. ",
           "slug": "roll-fokus",
           "image": "https://cdn.farfor.ru/media/cache/0f/ea/0fea950d45e3670ac6323d6bf0092e4a.jpg"
@@ -987,21 +974,21 @@
             "fat": 11.5,
             "protein": 6.9,
             "carbohydrate": 15.8,
-            "calorific": 194.0
+            "calorific": 194
           },
-          "price": 159.0,
+          "price": 159,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25504,
-          "weight": 110.0,
+          "weight": 110,
           "description": "Филе куриное  варено-копченое, помидор, сыр моцарелла, черный кунжут, сыр сливочный, соус сырный, соус унаги, белый кунжут ",
           "slug": "fokus",
           "image": "https://cdn.farfor.ru/media/cache/3e/08/3e080f0ad568370fc85bb4155300c042.jpg"
         }
       ],
       "marking_composition": "Филе куриное  варено-копченое, помидор, сыр моцарелла, черный кунжут, сыр сливочный, соус сырный, соус унаги, белый кунжут. ",
-      "price": 289.0,
-      "weight": 221.0,
+      "price": 289,
+      "weight": 221,
       "id": 1709,
       "category_slug": "japan/rolly",
       "detail_id": 272,
@@ -1055,8 +1042,7 @@
     {
       "category_id": 18,
       "name": "Фламинго",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1068,16 +1054,16 @@
           "full_name": "Фламинго",
           "sizes": "213 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 10.0,
-            "carbohydrate": 43.0,
-            "calorific": 275.0
+            "fat": 7,
+            "protein": 10,
+            "carbohydrate": 43,
+            "calorific": 275
           },
-          "price": 289.0,
+          "price": 289,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9572,
-          "weight": 213.0,
+          "weight": 213,
           "description": "Капуста пекинская, куриное филе жареное, сыр сливочный, икра масаго оранжевая, укроп, соус сырный, соус хондаши, соус унаги, белый кунжут.",
           "slug": "flamingo",
           "image": "https://cdn.farfor.ru/media/cache/09/4f/094fcd5e2e64fa26ef9c299bbe062a51.jpg"
@@ -1090,24 +1076,24 @@
           "full_name": "Фламинго: 1/2",
           "sizes": "1/2 106 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 10.0,
-            "carbohydrate": 43.0,
-            "calorific": 275.0
+            "fat": 7,
+            "protein": 10,
+            "carbohydrate": 43,
+            "calorific": 275
           },
-          "price": 159.0,
+          "price": 159,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 28912,
-          "weight": 106.0,
+          "weight": 106,
           "description": "Капуста пекинская, куриное филе жареное, сыр сливочный, икра масаго оранжевая, укроп, соус сырный, соус хондаши, соус унаги, белый кунжут.",
           "slug": "flamingo-1-2",
           "image": "https://cdn.farfor.ru/media/cache/11/35/1135c12ff2d7ea357e0d46fba8590bf1.jpg"
         }
       ],
       "marking_composition": "",
-      "price": 289.0,
-      "weight": 213.0,
+      "price": 289,
+      "weight": 213,
       "id": 9572,
       "category_slug": "japan/rolly",
       "detail_id": 845,
@@ -1153,8 +1139,7 @@
     {
       "category_id": 18,
       "name": "Хоккайдо",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1166,24 +1151,24 @@
           "full_name": "Хоккайдо",
           "sizes": "174 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 7.0,
-            "carbohydrate": 24.0,
-            "calorific": 223.0
+            "fat": 11,
+            "protein": 7,
+            "carbohydrate": 24,
+            "calorific": 223
           },
-          "price": 299.0,
+          "price": 299,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1769,
-          "weight": 174.0,
+          "weight": 174,
           "description": "Лосось терияки, сыр сливочный, авокадо, соус сырный, соус унаги, белый кунжут жареный.",
           "slug": "rollhokkaido",
           "image": "https://cdn.farfor.ru/media/cache/4a/32/4a32c29f5f2667c4d70100254052a75a.jpg"
         }
       ],
       "marking_composition": "Лосось терияки, сыр сливочный, авокадо, соус сырный, соус унаги, белый кунжут жареный, рис, нори.",
-      "price": 299.0,
-      "weight": 174.0,
+      "price": 299,
+      "weight": 174,
       "id": 1769,
       "category_slug": "japan/rolly",
       "detail_id": 276,
@@ -1237,8 +1222,7 @@
     {
       "category_id": 18,
       "name": "Калифорния с крабом",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1251,15 +1235,15 @@
           "sizes": "195 г",
           "nutritional_values": {
             "fat": 5.2,
-            "protein": 5.0,
+            "protein": 5,
             "carbohydrate": 17.9,
-            "calorific": 138.0
+            "calorific": 138
           },
-          "price": 229.0,
+          "price": 229,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 11151,
-          "weight": 195.0,
+          "weight": 195,
           "description": "Крабовые палочки с майонезом, соус хондаши, огурец, авокадо, икра масаго оранжевая.",
           "slug": "californiya-s-krabom",
           "image": "https://cdn.farfor.ru/media/cache/aa/96/aa965b886736af7c456ac48cf7f48104.jpg"
@@ -1273,23 +1257,23 @@
           "sizes": "1/2 97 г",
           "nutritional_values": {
             "fat": 5.2,
-            "protein": 5.0,
+            "protein": 5,
             "carbohydrate": 17.9,
-            "calorific": 138.0
+            "calorific": 138
           },
-          "price": 129.0,
+          "price": 129,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25395,
-          "weight": 97.0,
+          "weight": 97,
           "description": "Крабовые палочки с майонезом, соус хондаши, огурец, авокадо, икра масаго оранжевая.",
           "slug": "californiya-s-krabom-12",
           "image": "https://cdn.farfor.ru/media/cache/eb/d2/ebd22754aeb424feacfb1c59109bdb70.jpg"
         }
       ],
       "marking_composition": "Крабовые палочки с майонезом, соус хондаши, огурец, авокадо, икра масаго оранжевая.",
-      "price": 229.0,
-      "weight": 195.0,
+      "price": 229,
+      "weight": 195,
       "id": 11151,
       "category_slug": "japan/rolly",
       "detail_id": 1272,
@@ -1335,8 +1319,7 @@
     {
       "category_id": 18,
       "name": "Запеченный Майами",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1348,16 +1331,16 @@
           "full_name": "Запеченный Майами",
           "sizes": "199 г",
           "nutritional_values": {
-            "fat": 10.0,
-            "protein": 5.0,
-            "carbohydrate": 28.0,
-            "calorific": 222.0
+            "fat": 10,
+            "protein": 5,
+            "carbohydrate": 28,
+            "calorific": 222
           },
-          "price": 289.0,
+          "price": 289,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1730,
-          "weight": 199.0,
+          "weight": 199,
           "description": "Мидии, икра масаго оранжевая, соус сырный, соус унаги, белый кунжут.",
           "slug": "rollmajami",
           "image": "https://cdn.farfor.ru/media/cache/e1/0d/e10da2133dab7dc5433d531ae82cec32.jpg"
@@ -1370,24 +1353,24 @@
           "full_name": "Запеченный майами: 1/2",
           "sizes": "1/2 99 г",
           "nutritional_values": {
-            "fat": 10.0,
-            "protein": 5.0,
-            "carbohydrate": 28.0,
-            "calorific": 222.0
+            "fat": 10,
+            "protein": 5,
+            "carbohydrate": 28,
+            "calorific": 222
           },
-          "price": 159.0,
+          "price": 159,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9578,
-          "weight": 99.0,
+          "weight": 99,
           "description": "Мидии, икра масаго оранжевая, соус сырный, соус унаги, белый кунжут жареный.",
           "slug": "zapechennyij-majami-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/ff/eb/ffebd319bd8414b3701b626109fe1abc.jpg"
         }
       ],
       "marking_composition": "Мидии, икра масаго оранжевая, соус сырный, соус унаги, белый кунжут.",
-      "price": 289.0,
-      "weight": 199.0,
+      "price": 289,
+      "weight": 199,
       "id": 1730,
       "category_slug": "japan/rolly",
       "detail_id": 234,
@@ -1441,8 +1424,7 @@
     {
       "category_id": 18,
       "name": "Запеченный Вулкан",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1456,22 +1438,22 @@
           "nutritional_values": {
             "fat": 16.4,
             "protein": 6.7,
-            "carbohydrate": 16.0,
+            "carbohydrate": 16,
             "calorific": 238.4
           },
-          "price": 449.0,
+          "price": 449,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1726,
-          "weight": 174.0,
+          "weight": 174,
           "description": "Сыр сливочный, авокадо, угорь жареный, соус сырный, соус унаги, белый кунжут жареный.",
           "slug": "rollvulkan",
           "image": "https://cdn.farfor.ru/media/cache/19/04/1904e7219ecbd0255728c85673a6088e.jpg"
         }
       ],
       "marking_composition": "Рис, нори, сыр сливочный, авокадо, угорь жареный, соус сырный, соус унаги, белый кунжут жареный.",
-      "price": 449.0,
-      "weight": 174.0,
+      "price": 449,
+      "weight": 174,
       "id": 1726,
       "category_slug": "japan/rolly",
       "detail_id": 230,
@@ -1509,8 +1491,7 @@
     {
       "category_id": 18,
       "name": "Капоэйра",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1525,21 +1506,21 @@
             "fat": 2.3,
             "protein": 2.9,
             "carbohydrate": 19.7,
-            "calorific": 111.0
+            "calorific": 111
           },
-          "price": 99.0,
+          "price": 99,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1786,
-          "weight": 122.0,
+          "weight": 122,
           "description": "Классический ролл с огурцом и сыром сливочным.",
           "slug": "rollkapoejra",
           "image": "https://cdn.farfor.ru/media/cache/bd/0e/bd0e587b0ee3c1ca0706af1b6644edfa.jpg"
         }
       ],
       "marking_composition": "Рис, нори, классический ролл с огурцом и сыром сливочным.",
-      "price": 99.0,
-      "weight": 122.0,
+      "price": 99,
+      "weight": 122,
       "id": 1786,
       "category_slug": "japan/rolly",
       "detail_id": 293,
@@ -1585,8 +1566,7 @@
     {
       "category_id": 18,
       "name": "Кимпаб с курицей",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 10,
       "modifications": [
@@ -1598,16 +1578,16 @@
           "full_name": "Кимпаб с курицей",
           "sizes": "287 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 5.0,
-            "carbohydrate": 22.0,
-            "calorific": 171.0
+            "fat": 7,
+            "protein": 5,
+            "carbohydrate": 22,
+            "calorific": 171
           },
-          "price": 309.0,
+          "price": 309,
           "mode": "10 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 29356,
-          "weight": 287.0,
+          "weight": 287,
           "description": "Сыр сливочный, морковь, соус Кимчи, масло кунжутное, куриное филе жареное, огурец, соус спайси",
           "slug": "kimpabchiken",
           "image": "https://cdn.farfor.ru/media/cache/53/e3/53e30e88cd49bedf6c4151bb4f97613c.jpg"
@@ -1620,24 +1600,24 @@
           "full_name": "Кимпаб с курицей: 1/2",
           "sizes": "1/2 143 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 5.0,
-            "carbohydrate": 22.0,
-            "calorific": 171.0
+            "fat": 7,
+            "protein": 5,
+            "carbohydrate": 22,
+            "calorific": 171
           },
-          "price": 169.0,
+          "price": 169,
           "mode": "5 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 33761,
-          "weight": 143.0,
+          "weight": 143,
           "description": "Сыр сливочный, морковь, соус Кимчи, масло кунжутное, куриное филе жареное, огурец, соус спайси",
           "slug": "kimpabchiken-1-2",
           "image": "https://cdn.farfor.ru/media/cache/b1/e5/b1e547067e9b08f11e875ea0aacb5ea9.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, морковь, соус Кимчи, масло кунжутное, куриное филе жареное, огурец, соус спайси",
-      "price": 309.0,
-      "weight": 287.0,
+      "price": 309,
+      "weight": 287,
       "id": 29356,
       "category_slug": "japan/rolly",
       "detail_id": 4033,
@@ -1659,8 +1639,7 @@
     {
       "category_id": 18,
       "name": "Карамельный лосось",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1672,16 +1651,16 @@
           "full_name": "Карамельный лосось",
           "sizes": "211 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 9.0,
-            "carbohydrate": 25.0,
-            "calorific": 199.0
+            "fat": 7,
+            "protein": 9,
+            "carbohydrate": 25,
+            "calorific": 199
           },
-          "price": 469.0,
+          "price": 469,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 27055,
-          "weight": 211.0,
+          "weight": 211,
           "description": "Креветки темпура, филе лосося, жареные лепестки миндаля, сыр сливочный, сахар тростниковый, соус унаги.",
           "slug": "karamel-losos",
           "image": "https://cdn.farfor.ru/media/cache/71/fe/71fe4ff256da628f6f5bba5edad9b916.jpg"
@@ -1694,24 +1673,24 @@
           "full_name": "Карамельный лосось: 1/2",
           "sizes": "1/2 105 г",
           "nutritional_values": {
-            "fat": 4.0,
-            "protein": 5.0,
-            "carbohydrate": 13.0,
-            "calorific": 199.0
+            "fat": 4,
+            "protein": 5,
+            "carbohydrate": 13,
+            "calorific": 199
           },
-          "price": 249.0,
+          "price": 249,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 27061,
-          "weight": 105.0,
+          "weight": 105,
           "description": "Креветки темпура, филе лосося, жареные лепестки миндаля, сыр сливочный, сахар тростниковый, соус унаги.",
           "slug": "karamel-losos-1-2",
           "image": "https://cdn.farfor.ru/media/cache/2e/fe/2efecba0a0de2471df658d3f2dcca324.jpg"
         }
       ],
       "marking_composition": "Креветки темпура, филе лосося, жареные лепестки миндаля, сыр сливочный, сахар тростниковый, соус унаги.",
-      "price": 469.0,
-      "weight": 211.0,
+      "price": 469,
+      "weight": 211,
       "id": 27055,
       "category_slug": "japan/rolly",
       "detail_id": 3748,
@@ -1781,8 +1760,7 @@
     {
       "category_id": 18,
       "name": "Локи",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1794,16 +1772,16 @@
           "full_name": "Локи",
           "sizes": "255 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 6.0,
-            "carbohydrate": 32.0,
-            "calorific": 224.0
+            "fat": 8,
+            "protein": 6,
+            "carbohydrate": 32,
+            "calorific": 224
           },
-          "price": 379.0,
+          "price": 379,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 27077,
-          "weight": 255.0,
+          "weight": 255,
           "description": "Сыр сливочный, Лосось, Такуан, Кляр, Сухари панко, Соус Васаби микс, Соус унаги, Рисовые шарики (Воздушный рис)",
           "slug": "loki",
           "image": "https://cdn.farfor.ru/media/cache/69/cb/69cb23fd847fa38d6abff59db1ba76f2.jpg"
@@ -1816,24 +1794,24 @@
           "full_name": "Локи: 1/2",
           "sizes": "1/2 127 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 6.0,
-            "carbohydrate": 32.0,
-            "calorific": 224.0
+            "fat": 8,
+            "protein": 6,
+            "carbohydrate": 32,
+            "calorific": 224
           },
-          "price": 209.0,
+          "price": 209,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 27081,
-          "weight": 127.0,
+          "weight": 127,
           "description": "Сыр сливочный, Лосось, Такуан, Кляр, Сухари панко, Соус Васаби микс, Соус унаги, Рисовые шарики (Воздушный рис)",
           "slug": "loki-1-2",
           "image": "https://cdn.farfor.ru/media/cache/ec/ae/ecaef9c89e52116c78cf264a3fbbd313.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, Лосось, Такуан, Кляр, Сухари панко, Соус Васаби микс, Соус унаги, Рисовые шарики (Воздушный рис)",
-      "price": 379.0,
-      "weight": 255.0,
+      "price": 379,
+      "weight": 255,
       "id": 27077,
       "category_slug": "japan/rolly",
       "detail_id": 3752,
@@ -1879,8 +1857,7 @@
     {
       "category_id": 18,
       "name": "Креветка в деле",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1892,16 +1869,16 @@
           "full_name": "Креветка в деле",
           "sizes": "259 г",
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 7.0,
-            "carbohydrate": 36.0,
-            "calorific": 217.0
+            "fat": 5,
+            "protein": 7,
+            "carbohydrate": 36,
+            "calorific": 217
           },
-          "price": 409.0,
+          "price": 409,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25055,
-          "weight": 259.0,
+          "weight": 259,
           "description": "Креветки темпура, авокадо, кляр, сухари панко, сыр сливочный, соус Свит чили, соус Унаги, белый кунжут.",
           "slug": "krevetkavdele",
           "image": "https://cdn.farfor.ru/media/cache/61/bc/61bcc5836ea61771bb0dd0394fab34c3.jpg"
@@ -1914,24 +1891,24 @@
           "full_name": "Креветка в деле: 1/2",
           "sizes": "1/2 129 г",
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 7.0,
-            "carbohydrate": 36.0,
-            "calorific": 217.0
+            "fat": 5,
+            "protein": 7,
+            "carbohydrate": 36,
+            "calorific": 217
           },
-          "price": 219.0,
+          "price": 219,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25407,
-          "weight": 129.0,
+          "weight": 129,
           "description": "Креветки темпура, авокадо, кляр, сухари панко, сыр сливочный, соус Свит чили, соус Унаги, белый кунжут ",
           "slug": "krevetkavdele12",
           "image": "https://cdn.farfor.ru/media/cache/e3/bb/e3bba26abae10c5d97cacd23e1e5433e.jpg"
         }
       ],
       "marking_composition": "Креветки темпура, авокадо, кляр, сухари панко, сыр сливочный, соус Свит чили, соус Унаги, белый кунжут.",
-      "price": 409.0,
-      "weight": 259.0,
+      "price": 409,
+      "weight": 259,
       "id": 25055,
       "category_slug": "japan/rolly",
       "detail_id": 3138,
@@ -1985,8 +1962,7 @@
     {
       "category_id": 18,
       "name": "Креветка и манго",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -1998,16 +1974,16 @@
           "full_name": "Креветка и манго",
           "sizes": "199 г",
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 6.0,
-            "carbohydrate": 26.0,
-            "calorific": 173.0
+            "fat": 5,
+            "protein": 6,
+            "carbohydrate": 26,
+            "calorific": 173
           },
-          "price": 289.0,
+          "price": 289,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25060,
-          "weight": 199.0,
+          "weight": 199,
           "description": "Креветки темпура, соус манго-маракуйя, нити чили сушеные, белый кунжут, сыр сливочный, кунжут черный, икра масаго оранжевая.",
           "slug": "krevetkamango",
           "image": "https://cdn.farfor.ru/media/cache/4f/89/4f89b1c803f5329b4af8c665a9ed27c3.jpg"
@@ -2020,24 +1996,24 @@
           "full_name": "Креветка и манго: 1/2",
           "sizes": "1/2 99 г",
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 6.0,
-            "carbohydrate": 26.0,
-            "calorific": 173.0
+            "fat": 5,
+            "protein": 6,
+            "carbohydrate": 26,
+            "calorific": 173
           },
-          "price": 159.0,
+          "price": 159,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25413,
-          "weight": 99.0,
+          "weight": 99,
           "description": "Креветки темпура, соус манго-маракуйя, нити чили сушеные, белый кунжут, сыр сливочный, кунжут черный, икра масаго оранжевая.",
           "slug": "krevetkamango-12",
           "image": "https://cdn.farfor.ru/media/cache/3c/31/3c31de5dbc4d923dc944cb7d79989b09.jpg"
         }
       ],
       "marking_composition": "Креветки темпура, соус манго-маракуйя, нити чили сушеные, белый кунжут, сыр сливочный, кунжут черный, икра масаго оранжевая.",
-      "price": 289.0,
-      "weight": 199.0,
+      "price": 289,
+      "weight": 199,
       "id": 25060,
       "category_slug": "japan/rolly",
       "detail_id": 3139,
@@ -2091,8 +2067,7 @@
     {
       "category_id": 18,
       "name": "Темпурный с креветками",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2106,14 +2081,14 @@
           "nutritional_values": {
             "fat": 12.2,
             "protein": 10.2,
-            "carbohydrate": 40.0,
+            "carbohydrate": 40,
             "calorific": 310.6
           },
-          "price": 409.0,
+          "price": 409,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 23255,
-          "weight": 294.0,
+          "weight": 294,
           "description": "Креветки темпура, сыр сливочный, такуан, лук фри, кляр, сухари панко, соус сырный, соус унаги, белый кунжут.",
           "slug": "tempurnui-s-krevetkami",
           "image": "https://cdn.farfor.ru/media/cache/a1/79/a179086b169d74e8b5c00693eee827cd.jpg"
@@ -2128,22 +2103,22 @@
           "nutritional_values": {
             "fat": 12.2,
             "protein": 10.2,
-            "carbohydrate": 40.0,
+            "carbohydrate": 40,
             "calorific": 310.6
           },
-          "price": 219.0,
+          "price": 219,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25479,
-          "weight": 147.0,
+          "weight": 147,
           "description": "Креветки темпура, сыр сливочный, такуан, лук фри, кляр, сухари панко, соус сырный, соус унаги, белый кунжут.",
           "slug": "tempurnui-s-krevetkami-12",
           "image": "https://cdn.farfor.ru/media/cache/ad/81/ad8175810584e5456c2c9d0f8eba293f.jpg"
         }
       ],
       "marking_composition": "Креветки темпура, сыр сливочный, такуан, лук фри, кляр, сухари панко, соус сырный, соус унаги, белый кунжут.",
-      "price": 409.0,
-      "weight": 294.0,
+      "price": 409,
+      "weight": 294,
       "id": 23255,
       "category_slug": "japan/rolly",
       "detail_id": 2275,
@@ -2189,8 +2164,7 @@
     {
       "category_id": 18,
       "name": "Лосось в деле",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2202,16 +2176,16 @@
           "full_name": "Лосось в деле",
           "sizes": "210 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 6.0,
-            "carbohydrate": 25.0,
-            "calorific": 205.0
+            "fat": 9,
+            "protein": 6,
+            "carbohydrate": 25,
+            "calorific": 205
           },
-          "price": 389.0,
+          "price": 389,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25070,
-          "weight": 210.0,
+          "weight": 210,
           "description": "Лососевый соус (лосось, сырный соус, соус свит чили, кунжутное масло, кунжут черный), сыр сливочный, огурец, авокадо.",
           "slug": "lososvdele",
           "image": "https://cdn.farfor.ru/media/cache/10/52/1052d388ed1feb54839c009b32506eee.jpg"
@@ -2224,24 +2198,24 @@
           "full_name": "Лосось в деле: 1/2",
           "sizes": "1/2 105 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 6.0,
-            "carbohydrate": 25.0,
-            "calorific": 205.0
+            "fat": 9,
+            "protein": 6,
+            "carbohydrate": 25,
+            "calorific": 205
           },
-          "price": 209.0,
+          "price": 209,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25419,
-          "weight": 105.0,
+          "weight": 105,
           "description": "Лососевый соус (лосось, сырный соус, соус свит чили, кунжутное масло, кунжут черный), сыр сливочный, огурец, авокадо.",
           "slug": "lososvdele-12",
           "image": "https://cdn.farfor.ru/media/cache/87/26/87268c8344e6b16f162e2ef9ab4fd71c.jpg"
         }
       ],
       "marking_composition": "Лососевый соус (лосось, сырный соус, соус свит чили, кунжутное масло, кунжут черный), сыр сливочный, огурец, авокадо.",
-      "price": 389.0,
-      "weight": 210.0,
+      "price": 389,
+      "weight": 210,
       "id": 25070,
       "category_slug": "japan/rolly",
       "detail_id": 3141,
@@ -2271,8 +2245,7 @@
     {
       "category_id": 18,
       "name": "Темпурная филадельфия",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2284,16 +2257,16 @@
           "full_name": "Темпурная филадельфия",
           "sizes": "254 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 8.0,
-            "carbohydrate": 30.0,
-            "calorific": 224.0
+            "fat": 8,
+            "protein": 8,
+            "carbohydrate": 30,
+            "calorific": 224
           },
-          "price": 469.0,
+          "price": 469,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25050,
-          "weight": 254.0,
+          "weight": 254,
           "description": "Рис, лосось, сыр сливочный, сухари панко, кляр, соус унаги, белый кунжут.",
           "slug": "tempurafiladelfiya",
           "image": "https://cdn.farfor.ru/media/cache/ca/52/ca5212aaafd87d68ff85d99558664444.jpg"
@@ -2306,24 +2279,24 @@
           "full_name": "Темпурная филадельфия: 1/2",
           "sizes": "1/2 127 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 8.0,
-            "carbohydrate": 30.0,
-            "calorific": 224.0
+            "fat": 8,
+            "protein": 8,
+            "carbohydrate": 30,
+            "calorific": 224
           },
-          "price": 249.0,
+          "price": 249,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25449,
-          "weight": 127.0,
+          "weight": 127,
           "description": "Рис, лосось, сыр сливочный, сухари панко, кляр, соус унаги, белый кунжут.",
           "slug": "tempurafiladelfiya-12",
           "image": "https://cdn.farfor.ru/media/cache/5c/4c/5c4c15e63fa20a0ead819ca6e615fa54.jpg"
         }
       ],
       "marking_composition": "Лосось, сыр сливочный, сухари панко, кляр, соус унаги, белый кунжут.",
-      "price": 469.0,
-      "weight": 254.0,
+      "price": 469,
+      "weight": 254,
       "id": 25050,
       "category_slug": "japan/rolly",
       "detail_id": 3143,
@@ -2393,8 +2366,7 @@
     {
       "category_id": 18,
       "name": "Ойси",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2406,16 +2378,16 @@
           "full_name": "Ойси",
           "sizes": "274 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 8.0,
-            "carbohydrate": 19.0,
-            "calorific": 207.0
+            "fat": 11,
+            "protein": 8,
+            "carbohydrate": 19,
+            "calorific": 207
           },
-          "price": 469.0,
+          "price": 469,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 17797,
-          "weight": 274.0,
+          "weight": 274,
           "description": "Сыр сливочный, варёные креветки, огурец, филе лосося, соус спайси, соус унаги, белый кунжут, икра масаго оранжевая, лук зеленый",
           "slug": "oishi",
           "image": "https://cdn.farfor.ru/media/cache/dd/88/dd88ea72ba4a37add5b037746ebf7189.jpg"
@@ -2428,24 +2400,24 @@
           "full_name": "Ойси: 1/2",
           "sizes": "1/2 137 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 8.0,
-            "carbohydrate": 19.0,
-            "calorific": 207.0
+            "fat": 11,
+            "protein": 8,
+            "carbohydrate": 19,
+            "calorific": 207
           },
-          "price": 249.0,
+          "price": 249,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25437,
-          "weight": 137.0,
+          "weight": 137,
           "description": "Сыр сливочный, варёные креветки, огурец, филе лосося, соус спайси, соус унаги, белый кунжут, икра масаго оранжевая, лук зеленый",
           "slug": "oishi-12",
           "image": "https://cdn.farfor.ru/media/cache/47/4f/474f011c96a974c506627a092aba15b8.jpg"
         }
       ],
       "marking_composition": "Сыр сливочный, варёные креветки, огурец, филе лосося, соус спайси, соус унаги, белый кунжут, икра масаго оранжевая, лук зеленый",
-      "price": 469.0,
-      "weight": 274.0,
+      "price": 469,
+      "weight": 274,
       "id": 17797,
       "category_slug": "japan/rolly",
       "detail_id": 1719,
@@ -2507,8 +2479,7 @@
     {
       "category_id": 18,
       "name": "Ролл с огурцом",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2521,23 +2492,23 @@
           "sizes": "114 г",
           "nutritional_values": {
             "fat": 1.4,
-            "protein": 3.0,
+            "protein": 3,
             "carbohydrate": 22.8,
             "calorific": 115.8
           },
-          "price": 89.0,
+          "price": 89,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1778,
-          "weight": 114.0,
+          "weight": 114,
           "description": "Классический ролл с огурцом и белым кунжутом жареным.",
           "slug": "rollsogurcom",
           "image": "https://cdn.farfor.ru/media/cache/83/c4/83c40076961f4161bfe9c20b04404c52.jpg"
         }
       ],
       "marking_composition": "Огурец, рис, нори, белый кунжут жареный.",
-      "price": 89.0,
-      "weight": 114.0,
+      "price": 89,
+      "weight": 114,
       "id": 1778,
       "category_slug": "japan/rolly",
       "detail_id": 285,
@@ -2583,8 +2554,7 @@
     {
       "category_id": 18,
       "name": "Ролл с креветкой",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2601,19 +2571,19 @@
             "carbohydrate": 20.6,
             "calorific": 116.5
           },
-          "price": 289.0,
+          "price": 289,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1780,
-          "weight": 112.0,
+          "weight": 112,
           "description": "Классический ролл с креветками вареными.",
           "slug": "rollskrevetkoj",
           "image": "https://cdn.farfor.ru/media/cache/e8/9e/e89ef7064d3419950d2846791e89dd48.jpg"
         }
       ],
       "marking_composition": "Рис, креветка вареная, нори",
-      "price": 289.0,
-      "weight": 112.0,
+      "price": 289,
+      "weight": 112,
       "id": 1780,
       "category_slug": "japan/rolly",
       "detail_id": 287,
@@ -2659,8 +2629,7 @@
     {
       "category_id": 18,
       "name": "Ролл с лососем",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2677,19 +2646,19 @@
             "carbohydrate": 20.6,
             "calorific": 125.4
           },
-          "price": 269.0,
+          "price": 269,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1779,
-          "weight": 112.0,
+          "weight": 112,
           "description": "Классический ролл с лососем.",
           "slug": "rollslososem",
           "image": "https://cdn.farfor.ru/media/cache/a2/38/a238c5e933598b03b7c536a11d713f09.jpg"
         }
       ],
       "marking_composition": "Лосось, рис, нори.",
-      "price": 269.0,
-      "weight": 112.0,
+      "price": 269,
+      "weight": 112,
       "id": 1779,
       "category_slug": "japan/rolly",
       "detail_id": 286,
@@ -2719,8 +2688,7 @@
     {
       "category_id": 18,
       "name": "Ролл с тунцом",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2737,19 +2705,19 @@
             "carbohydrate": 20.6,
             "calorific": 117.4
           },
-          "price": 169.0,
+          "price": 169,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1781,
-          "weight": 112.0,
+          "weight": 112,
           "description": "Классический ролл с тунцом.",
           "slug": "rollstuncom",
           "image": "https://cdn.farfor.ru/media/cache/17/83/178384bb36036de056315128f5c4bc3f.jpg"
         }
       ],
       "marking_composition": "Тунец, рис, нори.",
-      "price": 169.0,
-      "weight": 112.0,
+      "price": 169,
+      "weight": 112,
       "id": 1781,
       "category_slug": "japan/rolly",
       "detail_id": 288,
@@ -2771,8 +2739,7 @@
     {
       "category_id": 18,
       "name": "Ролл с угрём",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2787,21 +2754,21 @@
             "fat": 7.2,
             "protein": 6.4,
             "carbohydrate": 21.2,
-            "calorific": 175.0
+            "calorific": 175
           },
-          "price": 259.0,
+          "price": 259,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1782,
-          "weight": 119.0,
+          "weight": 119,
           "description": "Классический ролл с угрем жареным, соусом унаги и белым кунжутом жареным.",
           "slug": "rollsugrem",
           "image": "https://cdn.farfor.ru/media/cache/cc/b1/ccb120c6ec7bb524aa438116a0cb3210.jpg"
         }
       ],
       "marking_composition": "Угорь жареный, рис, нори, белый кунжут жаренный, соус унаги.",
-      "price": 259.0,
-      "weight": 119.0,
+      "price": 259,
+      "weight": 119,
       "id": 1782,
       "category_slug": "japan/rolly",
       "detail_id": 289,
@@ -2839,8 +2806,7 @@
     {
       "category_id": 18,
       "name": "Закат креветки",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2852,16 +2818,16 @@
           "full_name": "Закат креветки",
           "sizes": "220 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 5.0,
-            "carbohydrate": 23.0,
-            "calorific": 211.0
+            "fat": 11,
+            "protein": 5,
+            "carbohydrate": 23,
+            "calorific": 211
           },
-          "price": 399.0,
+          "price": 399,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 14869,
-          "weight": 220.0,
+          "weight": 220,
           "description": "Икра масаго оранжевая, сыр сливочный, лук фри, креветки вареные, авокадо, соус сырный, соус унаги, белый кунжут.",
           "slug": "zakat-krevetki",
           "image": "https://cdn.farfor.ru/media/cache/d1/b4/d1b44bdd222ba611f93cc4bd13a9322f.jpg"
@@ -2874,24 +2840,24 @@
           "full_name": "Закат креветки: 1/2",
           "sizes": "1/2 110 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 5.0,
-            "carbohydrate": 23.0,
-            "calorific": 211.0
+            "fat": 11,
+            "protein": 5,
+            "carbohydrate": 23,
+            "calorific": 211
           },
-          "price": 219.0,
+          "price": 219,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25467,
-          "weight": 110.0,
+          "weight": 110,
           "description": "Икра масаго оранжевая, сыр сливочный, лук фри, креветки вареные, авокадо, соус сырный, соус унаги, белый кунжут.",
           "slug": "zakat-krevetki-12",
           "image": "https://cdn.farfor.ru/media/cache/54/3a/543a81fe093076fe1ed1a0acbc999d47.jpg"
         }
       ],
       "marking_composition": "Икра масаго оранжевая, сыр сливочный, лук фри, креветки вареные, авокадо, соус сырный, соус унаги, белый кунжут.",
-      "price": 399.0,
-      "weight": 220.0,
+      "price": 399,
+      "weight": 220,
       "id": 14869,
       "category_slug": "japan/rolly",
       "detail_id": 1624,
@@ -2937,8 +2903,7 @@
     {
       "category_id": 18,
       "name": "Бонито",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -2950,24 +2915,24 @@
           "full_name": "Бонито",
           "sizes": "178 г",
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 8.0,
-            "carbohydrate": 26.0,
-            "calorific": 199.0
+            "fat": 7,
+            "protein": 8,
+            "carbohydrate": 26,
+            "calorific": 199
           },
-          "price": 299.0,
+          "price": 299,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1737,
-          "weight": 178.0,
+          "weight": 178,
           "description": "Лосось филе, огурец, сыр сливочный, стружка тунца бонито",
           "slug": "rollbonito",
           "image": "https://cdn.farfor.ru/media/cache/ac/d4/acd447c5d2232ccb7d829574b5a1be73.jpg"
         }
       ],
       "marking_composition": "Лосось филе, огурец, сыр сливочный, стружка тунца бонито",
-      "price": 299.0,
-      "weight": 178.0,
+      "price": 299,
+      "weight": 178,
       "id": 1737,
       "category_slug": "japan/rolly",
       "detail_id": 242,
@@ -3005,8 +2970,7 @@
     {
       "category_id": 18,
       "name": "Инь-ян",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3018,16 +2982,16 @@
           "full_name": "Инь-ян",
           "sizes": "243 г",
           "nutritional_values": {
-            "fat": 2.0,
-            "protein": 7.0,
-            "carbohydrate": 35.0,
-            "calorific": 186.0
+            "fat": 2,
+            "protein": 7,
+            "carbohydrate": 35,
+            "calorific": 186
           },
-          "price": 419.0,
+          "price": 419,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1777,
-          "weight": 243.0,
+          "weight": 243,
           "description": "Лосось, угорь жареный.",
           "slug": "rollin-yan",
           "image": "https://cdn.farfor.ru/media/cache/95/7e/957e6db07138ed06af0e1008fcd869b2.jpg"
@@ -3040,24 +3004,24 @@
           "full_name": "Инь-ян: 1/2",
           "sizes": "1/2 118 г",
           "nutritional_values": {
-            "fat": 2.0,
-            "protein": 7.0,
-            "carbohydrate": 35.0,
-            "calorific": 186.0
+            "fat": 2,
+            "protein": 7,
+            "carbohydrate": 35,
+            "calorific": 186
           },
-          "price": 229.0,
+          "price": 229,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25461,
-          "weight": 118.0,
+          "weight": 118,
           "description": "Лосось, угорь жареный.",
           "slug": "rollin-yan-12",
           "image": "https://cdn.farfor.ru/media/cache/09/d6/09d6d50eea45a0a2a8b253e0d88f0051.jpg"
         }
       ],
       "marking_composition": "Рис, нори, лосось, угорь жареный.",
-      "price": 419.0,
-      "weight": 243.0,
+      "price": 419,
+      "weight": 243,
       "id": 1777,
       "category_slug": "japan/rolly",
       "detail_id": 284,
@@ -3079,8 +3043,7 @@
     {
       "category_id": 18,
       "name": "Калифорния с лососем",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3092,16 +3055,16 @@
           "full_name": "Калифорния с лососем",
           "sizes": "205 г",
           "nutritional_values": {
-            "fat": 4.0,
-            "protein": 6.0,
-            "carbohydrate": 24.0,
-            "calorific": 156.0
+            "fat": 4,
+            "protein": 6,
+            "carbohydrate": 24,
+            "calorific": 156
           },
-          "price": 419.0,
+          "price": 419,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1742,
-          "weight": 205.0,
+          "weight": 205,
           "description": "Лосось, огурец, авокадо, сыр сливочный, икра масаго оранжевая",
           "slug": "rollkaliforniyaslososem",
           "image": "https://cdn.farfor.ru/media/cache/52/21/52214293740f28d41cab55daf0938efe.jpg"
@@ -3114,24 +3077,24 @@
           "full_name": "Калифорния с лососем: 1/2",
           "sizes": "1/2 102 г",
           "nutritional_values": {
-            "fat": 4.0,
-            "protein": 6.0,
-            "carbohydrate": 24.0,
-            "calorific": 156.0
+            "fat": 4,
+            "protein": 6,
+            "carbohydrate": 24,
+            "calorific": 156
           },
-          "price": 229.0,
+          "price": 229,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9577,
-          "weight": 102.0,
+          "weight": 102,
           "description": "Лосось, огурец, авокадо, сыр сливочный, икра масаго оранжевая",
           "slug": "kaliforniya-s-lososem-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/8d/2a/8d2a38f47b83afb9cb8f0c8855cd2c4f.jpg"
         }
       ],
       "marking_composition": "Лосось, огурец, авокадо, сыр сливочный, икра масаго оранжевая",
-      "price": 419.0,
-      "weight": 205.0,
+      "price": 419,
+      "weight": 205,
       "id": 1742,
       "category_slug": "japan/rolly",
       "detail_id": 247,
@@ -3161,8 +3124,7 @@
     {
       "category_id": 18,
       "name": "Темпурный с кальмаром",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3174,16 +3136,16 @@
           "full_name": "Темпурный с кальмаром",
           "sizes": "282 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 6.0,
-            "carbohydrate": 33.0,
-            "calorific": 228.0
+            "fat": 8,
+            "protein": 6,
+            "carbohydrate": 33,
+            "calorific": 228
           },
-          "price": 369.0,
+          "price": 369,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9569,
-          "weight": 282.0,
+          "weight": 282,
           "description": "Кальмар жареный, лосось терияки, соус спайси, соус чесночный, лук зеленый, кляр, сухари панко, помидор, соус унаги, белый кунжут.",
           "slug": "tempurnyij-s-kalmarom",
           "image": "https://cdn.farfor.ru/media/cache/a0/93/a093ee0629253e8fb0b1af69d3d45fc9.jpg"
@@ -3196,24 +3158,24 @@
           "full_name": "Темпурный с кальмаром: 1/2",
           "sizes": "1/2 141 г",
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 6.0,
-            "carbohydrate": 33.0,
-            "calorific": 228.0
+            "fat": 8,
+            "protein": 6,
+            "carbohydrate": 33,
+            "calorific": 228
           },
-          "price": 199.0,
+          "price": 199,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25485,
-          "weight": 141.0,
+          "weight": 141,
           "description": "Кальмар жареный, лосось терияки, соус спайси, соус чесночный, лук зеленый, кляр, сухари панко, помидор, соус унаги, белый кунжут.",
           "slug": "tempurnyij-s-kalmarom",
           "image": "https://cdn.farfor.ru/media/cache/a0/5b/a05b3dbb1a40e2f1a6639951e8f62d34.jpg"
         }
       ],
       "marking_composition": "Кальмар жареный, лосось терияки, соус спайси, соус чесночный, лук зеленый, кляр, сухари панко, помидор, соус унаги, белый кунжут.",
-      "price": 369.0,
-      "weight": 282.0,
+      "price": 369,
+      "weight": 282,
       "id": 9569,
       "category_slug": "japan/rolly",
       "detail_id": 622,
@@ -3283,8 +3245,7 @@
     {
       "category_id": 18,
       "name": "Шапка Боб",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3296,16 +3257,16 @@
           "full_name": "Шапка Боб",
           "sizes": "254 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 7.0,
-            "carbohydrate": 32.0,
-            "calorific": 255.0
+            "fat": 11,
+            "protein": 7,
+            "carbohydrate": 32,
+            "calorific": 255
           },
-          "price": 419.0,
+          "price": 419,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 14881,
-          "weight": 254.0,
+          "weight": 254,
           "description": "Лосось, чесночный соус, кляр, сухари панко, соус из смородины, соус унаги, белый кунжут, соус цезарь (майонез, филе сельди слабосоленое, чеснок сушеный, лимонная кислота, сыр пармезан)",
           "slug": "shapkabob",
           "image": "https://cdn.farfor.ru/media/cache/fb/35/fb355c0789f5caea43f596c73d3aa571.jpg"
@@ -3318,24 +3279,24 @@
           "full_name": "Шапка Боб: 1/2",
           "sizes": "1/2 127 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 7.0,
-            "carbohydrate": 32.0,
-            "calorific": 255.0
+            "fat": 11,
+            "protein": 7,
+            "carbohydrate": 32,
+            "calorific": 255
           },
-          "price": 229.0,
+          "price": 229,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 25510,
-          "weight": 127.0,
+          "weight": 127,
           "description": "Лосось, чесночный соус, кляр, сухари панко, соус из смородины, соус унаги, белый кунжут, соус цезарь (майонез, филе сельди слабосоленое, чеснок сушеный, лимонная кислота, сыр пармезан)",
           "slug": "shapkabob-12",
           "image": "https://cdn.farfor.ru/media/cache/b7/60/b7603cbdf2ff650daabf6637de825fca.jpg"
         }
       ],
       "marking_composition": "Лосось, чесночный соус, кляр, сухари панко, соус из смородины, соус унаги, белый кунжут, соус цезарь (майонез, филе сельди слабосоленое, чеснок сушеный, лимонная кислота, сыр пармезан)",
-      "price": 419.0,
-      "weight": 254.0,
+      "price": 419,
+      "weight": 254,
       "id": 14881,
       "category_slug": "japan/rolly",
       "detail_id": 1625,
@@ -3389,8 +3350,7 @@
     {
       "category_id": 18,
       "name": "Запеченное горячее сердце самурая",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3402,16 +3362,16 @@
           "full_name": "Запеченное горячее сердце самурая",
           "sizes": "232 г",
           "nutritional_values": {
-            "fat": 14.0,
-            "protein": 8.0,
-            "carbohydrate": 50.0,
-            "calorific": 358.0
+            "fat": 14,
+            "protein": 8,
+            "carbohydrate": 50,
+            "calorific": 358
           },
-          "price": 389.0,
+          "price": 389,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1725,
-          "weight": 232.0,
+          "weight": 232,
           "description": "Лосось, окунь жареный, сыр сливочный, соус сырный, черный кунжут, соус унаги, белый кунжут жареный.",
           "slug": "rollgoryacheeserdcesamuraya",
           "image": "https://cdn.farfor.ru/media/cache/f3/00/f300f5c41b8161e0e1126cb0fdcc2357.jpg"
@@ -3424,24 +3384,24 @@
           "full_name": "Запеченное горячее сердце самурая: 1/2",
           "sizes": "1/2 116 г",
           "nutritional_values": {
-            "fat": 14.0,
-            "protein": 8.0,
-            "carbohydrate": 50.0,
-            "calorific": 358.0
+            "fat": 14,
+            "protein": 8,
+            "carbohydrate": 50,
+            "calorific": 358
           },
-          "price": 209.0,
+          "price": 209,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9580,
-          "weight": 116.0,
+          "weight": 116,
           "description": "Лосось, окунь жареный, сыр сливочный, соус сырный, соус унаги, черный кунжут, белый кунжут жареный.",
           "slug": "zapechennoe-goryachee-serdtse-samuraya-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/81/e5/81e563ff8f1675ca08e8645fc4e3a5e8.jpg"
         }
       ],
       "marking_composition": "Рис, нори, лосось, окунь жареный, сыр сливочный, соус сырный, соус унаги, белый кунжут жареный, черный кунжут.",
-      "price": 389.0,
-      "weight": 232.0,
+      "price": 389,
+      "weight": 232,
       "id": 1725,
       "category_slug": "japan/rolly",
       "detail_id": 229,
@@ -3503,8 +3463,7 @@
     {
       "category_id": 18,
       "name": "Темпурный",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3521,11 +3480,11 @@
             "carbohydrate": 27.2,
             "calorific": 197.5
           },
-          "price": 389.0,
+          "price": 389,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1731,
-          "weight": 209.0,
+          "weight": 209,
           "description": "Угорь жареный, имбирь маринованный, огурец, кляр, соус гамадари, соус унаги, белый кунжут жареный.",
           "slug": "rolltempurnyi",
           "image": "https://cdn.farfor.ru/media/cache/0b/48/0b48c407791e3017d8731c1b51ee8be1.jpg"
@@ -3543,19 +3502,19 @@
             "carbohydrate": 27.2,
             "calorific": 197.5
           },
-          "price": 209.0,
+          "price": 209,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9581,
-          "weight": 104.0,
+          "weight": 104,
           "description": "Угорь жареный, имбирь маринованный, огурец, кляр, соус гамадари, соус унаги, белый кунжут жареный.",
           "slug": "roll-tempurnyij-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/9e/ac/9eac8dc3e73d735c69b3edce69996a4c.jpg"
         }
       ],
       "marking_composition": "Угорь жареный, имбирь маринованный, огурец, кляр, соус гамадари, соус унаги, белый кунжут жареный, рис, нори.",
-      "price": 389.0,
-      "weight": 209.0,
+      "price": 389,
+      "weight": 209,
       "id": 1731,
       "category_slug": "japan/rolly",
       "detail_id": 235,
@@ -3593,8 +3552,7 @@
     {
       "category_id": 18,
       "name": "Филадельфия-one",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3606,16 +3564,16 @@
           "full_name": "Филадельфия-one",
           "sizes": "225 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 8.0,
-            "carbohydrate": 22.0,
-            "calorific": 201.0
+            "fat": 9,
+            "protein": 8,
+            "carbohydrate": 22,
+            "calorific": 201
           },
-          "price": 469.0,
+          "price": 469,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1765,
-          "weight": 225.0,
+          "weight": 225,
           "description": "Лосось, сыр сливочный, огурец.",
           "slug": "rollfiladelfiya-one",
           "image": "https://cdn.farfor.ru/media/cache/39/10/391084f7f905bead4d162e999acc3ffc.jpg"
@@ -3628,24 +3586,24 @@
           "full_name": "Филадельфия-one: 1/2",
           "sizes": "1/2 112 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 8.0,
-            "carbohydrate": 22.0,
-            "calorific": 201.0
+            "fat": 9,
+            "protein": 8,
+            "carbohydrate": 22,
+            "calorific": 201
           },
-          "price": 249.0,
+          "price": 249,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9582,
-          "weight": 112.0,
+          "weight": 112,
           "description": "Лосось, сыр сливочный, огурец.",
           "slug": "filadelfiya-one-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/45/9a/459a29c989bfcb0798bffacc5926a54a.jpg"
         }
       ],
       "marking_composition": "Лосось, сыр сливочный, огурец, рис, нори.",
-      "price": 469.0,
-      "weight": 225.0,
+      "price": 469,
+      "weight": 225,
       "id": 1765,
       "category_slug": "japan/rolly",
       "detail_id": 271,
@@ -3691,8 +3649,7 @@
     {
       "category_id": 18,
       "name": "Нежность",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3704,16 +3661,16 @@
           "full_name": "Нежность",
           "sizes": "230 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 8.0,
-            "carbohydrate": 24.0,
-            "calorific": 227.0
+            "fat": 11,
+            "protein": 8,
+            "carbohydrate": 24,
+            "calorific": 227
           },
-          "price": 469.0,
+          "price": 469,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1751,
-          "weight": 230.0,
+          "weight": 230,
           "description": "Лосось, сыр сливочный, соус креветочный. ",
           "slug": "rollnezhnost",
           "image": "https://cdn.farfor.ru/media/cache/be/ec/beec455f86353477548d23321d5dce0b.jpg"
@@ -3726,24 +3683,24 @@
           "full_name": "Нежность: 1/2",
           "sizes": "1/2 115 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 8.0,
-            "carbohydrate": 24.0,
-            "calorific": 227.0
+            "fat": 11,
+            "protein": 8,
+            "carbohydrate": 24,
+            "calorific": 227
           },
-          "price": 249.0,
+          "price": 249,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9583,
-          "weight": 115.0,
+          "weight": 115,
           "description": "Лосось, сыр сливочный, соус креветочный.",
           "slug": "nezhnost-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/33/f5/33f5c22f8573c48fa9134da65499dbd5.jpg"
         }
       ],
       "marking_composition": "Лосось, сыр сливочный, соус креветочный, рис, нори.",
-      "price": 469.0,
-      "weight": 230.0,
+      "price": 469,
+      "weight": 230,
       "id": 1751,
       "category_slug": "japan/rolly",
       "detail_id": 256,
@@ -3789,8 +3746,7 @@
     {
       "category_id": 18,
       "name": "Канада ",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3802,16 +3758,16 @@
           "full_name": "Канада ",
           "sizes": "229 г",
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 9.0,
-            "carbohydrate": 24.0,
-            "calorific": 177.0
+            "fat": 5,
+            "protein": 9,
+            "carbohydrate": 24,
+            "calorific": 177
           },
-          "price": 529.0,
+          "price": 529,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1743,
-          "weight": 229.0,
+          "weight": 229,
           "description": "Лосось, угорь жареный, огурец, соус сырный, соус унаги, белый кунжут жареный.",
           "slug": "rollkanada",
           "image": "https://cdn.farfor.ru/media/cache/aa/b9/aab96be5eac08110e7ec977aa0d4121c.jpg"
@@ -3824,24 +3780,24 @@
           "full_name": "Канада : 1/2",
           "sizes": "1/2 114 г",
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 9.0,
-            "carbohydrate": 24.0,
-            "calorific": 177.0
+            "fat": 5,
+            "protein": 9,
+            "carbohydrate": 24,
+            "calorific": 177
           },
-          "price": 279.0,
+          "price": 279,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9585,
-          "weight": 114.0,
+          "weight": 114,
           "description": "Лосось, соус сырный, соус унаги, огурец, угорь жареный, белый кунжут жареный.",
           "slug": "kanada-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/6a/96/6a963f72af3514db2cf05d1f35f8c293.jpg"
         }
       ],
       "marking_composition": "Рис, нори, лосось, угорь жареный, огурец, соус сырный, соус унаги, белый кунжут жареный.",
-      "price": 529.0,
-      "weight": 229.0,
+      "price": 529,
+      "weight": 229,
       "id": 1743,
       "category_slug": "japan/rolly",
       "detail_id": 248,
@@ -3871,8 +3827,7 @@
     {
       "category_id": 18,
       "name": "Филадельфия-classic",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3884,16 +3839,16 @@
           "full_name": "Филадельфия-classic",
           "sizes": "260 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 10.0,
-            "carbohydrate": 19.0,
-            "calorific": 197.0
+            "fat": 9,
+            "protein": 10,
+            "carbohydrate": 19,
+            "calorific": 197
           },
-          "price": 489.0,
+          "price": 489,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1763,
-          "weight": 260.0,
+          "weight": 260,
           "description": "Лосось, сыр сливочный.",
           "slug": "rollfiladelfiyaclassic",
           "image": "https://cdn.farfor.ru/media/cache/27/9e/279e0990d5dc60b40d0a62f362e57999.jpg"
@@ -3906,24 +3861,24 @@
           "full_name": "Филадельфия-classic: 1/2",
           "sizes": "1/2 130 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 10.0,
-            "carbohydrate": 19.0,
-            "calorific": 197.0
+            "fat": 9,
+            "protein": 10,
+            "carbohydrate": 19,
+            "calorific": 197
           },
-          "price": 259.0,
+          "price": 259,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9587,
-          "weight": 130.0,
+          "weight": 130,
           "description": "Лосось, сыр сливочный.",
           "slug": "filadelfiya-classic-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/ab/c5/abc529d168d5df4d27a66f1aa40d842f.jpg"
         }
       ],
       "marking_composition": "Лосось, сыр сливочный, рис, нори.",
-      "price": 489.0,
-      "weight": 260.0,
+      "price": 489,
+      "weight": 260,
       "id": 1763,
       "category_slug": "japan/rolly",
       "detail_id": 269,
@@ -3969,8 +3924,7 @@
     {
       "category_id": 18,
       "name": "Запеченная калифорния",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -3982,16 +3936,16 @@
           "full_name": "Запеченная калифорния",
           "sizes": "232 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 5.0,
-            "carbohydrate": 23.0,
-            "calorific": 193.0
+            "fat": 9,
+            "protein": 5,
+            "carbohydrate": 23,
+            "calorific": 193
           },
-          "price": 419.0,
+          "price": 419,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1715,
-          "weight": 232.0,
+          "weight": 232,
           "description": "Лосось, икра масаго оранжевая, авокадо, огурец, соус сырный, соус унаги, белый кунжут.",
           "slug": "kaliforniyahot",
           "image": "https://cdn.farfor.ru/media/cache/2a/20/2a2043b7a19ae3a0a9a7e832f848cc38.jpg"
@@ -4004,24 +3958,24 @@
           "full_name": "Запеченная калифорния: 1/2",
           "sizes": "1/2 116 г",
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 5.0,
-            "carbohydrate": 23.0,
-            "calorific": 193.0
+            "fat": 9,
+            "protein": 5,
+            "carbohydrate": 23,
+            "calorific": 193
           },
-          "price": 229.0,
+          "price": 229,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9588,
-          "weight": 116.0,
+          "weight": 116,
           "description": "Лосось, икра масаго оранжевая, авокадо, огурец, соус сырный, соус унаги, белый кунжут жареный.",
           "slug": "zapechennaya-kaliforniya-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/8d/7e/8d7e3ec2f6fcad7e1b672796bea9a48d.jpg"
         }
       ],
       "marking_composition": "Рис, нори, лосось, икра масаго оранжевая, авокадо, огурец, соус сырный, соус унаги, белый кунжут.",
-      "price": 419.0,
-      "weight": 232.0,
+      "price": 419,
+      "weight": 232,
       "id": 1715,
       "category_slug": "japan/rolly",
       "detail_id": 219,
@@ -4075,8 +4029,7 @@
     {
       "category_id": 18,
       "name": "Запеченная филадельфия",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -4088,16 +4041,16 @@
           "full_name": "Запеченная филадельфия",
           "sizes": "307 г",
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 9.0,
-            "carbohydrate": 18.0,
-            "calorific": 216.0
+            "fat": 12,
+            "protein": 9,
+            "carbohydrate": 18,
+            "calorific": 216
           },
-          "price": 529.0,
+          "price": 529,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1721,
-          "weight": 307.0,
+          "weight": 307,
           "description": "Лосось, сыр сливочный, соус сырный, соус унаги, белый кунжут жареный.",
           "slug": "rollfiladelfiya-hot",
           "image": "https://cdn.farfor.ru/media/cache/eb/72/eb72be64867557b6887ff1a029380b93.jpg"
@@ -4110,24 +4063,24 @@
           "full_name": "Запеченная филадельфия: 1/2",
           "sizes": "1/2 153 г",
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 9.0,
-            "carbohydrate": 18.0,
-            "calorific": 216.0
+            "fat": 12,
+            "protein": 9,
+            "carbohydrate": 18,
+            "calorific": 216
           },
-          "price": 279.0,
+          "price": 279,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9589,
-          "weight": 153.0,
+          "weight": 153,
           "description": "Лосось, сыр сливочный, соус сырный, соус унаги, белый кунжут жареный.",
           "slug": "zapechennaya-filadelfiya-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/35/f8/35f8ef98ad07044ce405660412608b8f.jpg"
         }
       ],
       "marking_composition": "Лосось, сыр сливочный, соус сырный, соус унаги, белый кунжут жареный, рис, нори.",
-      "price": 529.0,
-      "weight": 307.0,
+      "price": 529,
+      "weight": 307,
       "id": 1721,
       "category_slug": "japan/rolly",
       "detail_id": 225,
@@ -4197,8 +4150,7 @@
     {
       "category_id": 18,
       "name": "Филадельфия под угрём",
-      "components": [
-      ],
+      "components": [],
       "modification_type": "half",
       "elements": 8,
       "modifications": [
@@ -4210,16 +4162,16 @@
           "full_name": "Филадельфия под угрём",
           "sizes": "248 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 8.0,
-            "carbohydrate": 24.0,
-            "calorific": 227.0
+            "fat": 11,
+            "protein": 8,
+            "carbohydrate": 24,
+            "calorific": 227
           },
-          "price": 529.0,
+          "price": 529,
           "mode": "8 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 1762,
-          "weight": 248.0,
+          "weight": 248,
           "description": "Угорь жареный, авокадо, сыр сливочный, соус унаги, белый кунжут жареный.",
           "slug": "rollfiladelfiyapodugrem",
           "image": "https://cdn.farfor.ru/media/cache/93/61/93611fe6f175106d587c7ed8b2a9163d.jpg"
@@ -4232,24 +4184,24 @@
           "full_name": "Филадельфия под угрём: 1/2",
           "sizes": "1/2 124 г",
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 8.0,
-            "carbohydrate": 24.0,
-            "calorific": 227.0
+            "fat": 11,
+            "protein": 8,
+            "carbohydrate": 24,
+            "calorific": 227
           },
-          "price": 279.0,
+          "price": 279,
           "mode": "4 шт.",
-          "subprice": 0.0,
+          "subprice": 0,
           "id": 9590,
-          "weight": 124.0,
+          "weight": 124,
           "description": "Угорь жареный, авокадо, сыр сливочный, соус унаги, белый кунжут жареный.",
           "slug": "filadelfiya-pod-ugryom-12-portsii",
           "image": "https://cdn.farfor.ru/media/cache/df/48/df48a2c0db64b9b7285d4129d3cbc1a4.jpg"
         }
       ],
       "marking_composition": "Угорь жареный, авокадо, сыр сливочный, соус унаги, белый кунжут жареный, рис, нори.",
-      "price": 529.0,
-      "weight": 248.0,
+      "price": 529,
+      "weight": 248,
       "id": 1762,
       "category_slug": "japan/rolly",
       "detail_id": 268,
@@ -4306,7 +4258,7 @@
       "category_id": 1,
       "marking_composition": "Соус Гриль Хайнц, Сыр моцарелла, Лук красный, Огурцы маринованные, Помидор, Фарш говяжий жареный, Соус сырный. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
       "name": "Чиззи",
-      "weight": 420.0,
+      "weight": 420,
       "modification_type": "default",
       "tags": [
         {
@@ -4320,27 +4272,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "chizzi",
-      "price": 420.0,
+      "price": 420,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Соус Гриль Хайнц, Сыр моцарелла, Лук красный, Огурцы маринованные, Помидор, Фарш говяжий жареный, Соус сырный. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 420 г",
-          "weight": 420.0,
+          "weight": 420,
           "full_name": "Чиззи: 25см",
           "slug": "chizzi",
-          "price": 420.0,
+          "price": 420,
           "discount": 0,
           "nutritional_values": {
-            "fat": 15.0,
-            "protein": 10.0,
-            "carbohydrate": 21.0,
-            "calorific": 259.0
+            "fat": 15,
+            "protein": 10,
+            "carbohydrate": 21,
+            "calorific": 259
           },
           "mode": "25см",
           "description": "Соус Гриль Хайнц, Сыр моцарелла, Лук красный, Огурцы маринованные, Помидор, Фарш говяжий жареный, Соус сырный. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
@@ -4358,7 +4309,7 @@
       "category_id": 1,
       "marking_composition": "Барбекю по-болгарски 30см, Маргарита 30см, Ветчина и грибы 30см, Пепперони 30см.",
       "name": "Комбо 4 пиццы",
-      "weight": 2145.0,
+      "weight": 2145,
       "modification_type": "default",
       "tags": [
         {
@@ -4398,7 +4349,7 @@
       "elements": 0,
       "components": [
         {
-          "weight": 605.0,
+          "weight": 605,
           "name": "Барбекю по-болгарски. 30см",
           "product_id": 18070,
           "elements": 0,
@@ -4407,7 +4358,7 @@
           "image": "https://cdn.farfor.ru/media/cache/66/9a/669ac0fd01a8d9a7aec6b3840cd34193.jpg"
         },
         {
-          "weight": 495.0,
+          "weight": 495,
           "name": "Маргарита 30см",
           "product_id": 18115,
           "elements": 0,
@@ -4416,7 +4367,7 @@
           "image": "https://cdn.farfor.ru/media/cache/31/2b/312b5c193022e58ed1a98dd3dfcddf77.jpg"
         },
         {
-          "weight": 525.0,
+          "weight": 525,
           "name": "Ветчина и грибы 30см",
           "product_id": 17913,
           "elements": 0,
@@ -4425,7 +4376,7 @@
           "image": "https://cdn.farfor.ru/media/cache/67/ce/67ce5d83b7ff6254d05afc50a6f6ea96.jpg"
         },
         {
-          "weight": 520.0,
+          "weight": 520,
           "name": "Пепперони 30см",
           "product_id": 18131,
           "elements": 0,
@@ -4435,24 +4386,24 @@
         }
       ],
       "slug": "kombo4",
-      "price": 1595.0,
+      "price": 1595,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Барбекю по-болгарски 30см, Маргарита 30см, Ветчина и грибы 30см, Пепперони 30см.",
           "name": "30см",
-          "subprice": 1880.0,
+          "subprice": 1880,
           "sizes": "30см 2145 г",
-          "weight": 2145.0,
+          "weight": 2145,
           "full_name": "Комбо 4 пиццы: 30см",
           "slug": "kombo4",
-          "price": 1595.0,
+          "price": 1595,
           "discount": 16,
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 10.0,
-            "carbohydrate": 22.0,
-            "calorific": 209.0
+            "fat": 9,
+            "protein": 10,
+            "carbohydrate": 22,
+            "calorific": 209
           },
           "mode": "30см",
           "description": "Барбекю по-болгарски 30см, Маргарита 30см, Ветчина и грибы 30см, Пепперони 30см.",
@@ -4470,7 +4421,7 @@
       "category_id": 1,
       "marking_composition": "Соус майонезный, Сыр моцарелла, Куриное филе жареное, Лук красный, Огурцы маринованные, Соус сметанный с грибами, Лук фри. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
       "name": "Бенгальская",
-      "weight": 435.0,
+      "weight": 435,
       "modification_type": "default",
       "tags": [
         {
@@ -4484,27 +4435,26 @@
       ],
       "category_slug": "pizza",
       "elements": 1,
-      "components": [
-      ],
+      "components": [],
       "slug": "bengalskaya-25sm",
-      "price": 395.0,
+      "price": 395,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Соус майонезный, Сыр моцарелла, Куриное филе жареное, Лук красный, Огурцы маринованные, Соус сметанный с грибами, Лук фри. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 435 г",
-          "weight": 435.0,
+          "weight": 435,
           "full_name": "Бенгальская: 25см",
           "slug": "bengalskaya-25sm",
-          "price": 395.0,
+          "price": 395,
           "discount": 0,
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 9.0,
-            "carbohydrate": 21.0,
-            "calorific": 228.0
+            "fat": 12,
+            "protein": 9,
+            "carbohydrate": 21,
+            "calorific": 228
           },
           "mode": "25см",
           "description": "Соус майонезный, Сыр моцарелла, Куриное филе жареное, Лук красный, Огурцы маринованные, Соус сметанный с грибами, Лук фри. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
@@ -4515,18 +4465,18 @@
           "category_id": 1,
           "marking_composition": "Соус майонезный, Сыр моцарелла, Куриное филе жареное, Лук красный, Огурцы маринованные, Соус сметанный с грибами, Лук фри. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 635 г",
-          "weight": 635.0,
+          "weight": 635,
           "full_name": "Бенгальская: 30см",
           "slug": "bengalskaya-30sm",
-          "price": 545.0,
+          "price": 545,
           "discount": 0,
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 9.0,
-            "carbohydrate": 23.0,
-            "calorific": 236.0
+            "fat": 12,
+            "protein": 9,
+            "carbohydrate": 23,
+            "calorific": 236
           },
           "mode": "30см",
           "description": "Соус майонезный, Сыр моцарелла, Куриное филе жареное, Лук красный, Огурцы маринованные, Соус сметанный с грибами, Лук фри. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
@@ -4544,7 +4494,7 @@
       "category_id": 1,
       "marking_composition": "Сыр моцарелла,  Пепперони,  Халапеньо, Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый) . К пицце подается фирменный томатный соус",
       "name": "Пепперони с халапеньо",
-      "weight": 380.0,
+      "weight": 380,
       "modification_type": "default",
       "tags": [
         {
@@ -4574,27 +4524,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pepperoni-s-halapeno-25sm",
-      "price": 355.0,
+      "price": 355,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Сыр моцарелла,  Пепперони,  Халапеньо, Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый) . К пицце подается фирменный томатный соус",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 380 г",
-          "weight": 380.0,
+          "weight": 380,
           "full_name": "Пепперони с халапеньо: 25см",
           "slug": "pepperoni-s-halapeno-25sm",
-          "price": 355.0,
+          "price": 355,
           "discount": 0,
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 7.0,
-            "carbohydrate": 10.0,
-            "calorific": 176.0
+            "fat": 12,
+            "protein": 7,
+            "carbohydrate": 10,
+            "calorific": 176
           },
           "mode": "25см",
           "description": "Сыр моцарелла, пепперони, халапеньо. К пицце подается фирменный томатный соус.",
@@ -4605,18 +4554,18 @@
           "category_id": 1,
           "marking_composition": "Сыр моцарелла,  Пепперони,  Халапеньо, Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый) . К пицце подается фирменный томатный соус",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 585 г",
-          "weight": 585.0,
+          "weight": 585,
           "full_name": "Пепперони с халапеньо: 30см",
           "slug": "pepperoni-s-halapeno-30sm",
-          "price": 495.0,
+          "price": 495,
           "discount": 0,
           "nutritional_values": {
-            "fat": 16.0,
-            "protein": 11.0,
-            "carbohydrate": 19.0,
-            "calorific": 264.0
+            "fat": 16,
+            "protein": 11,
+            "carbohydrate": 19,
+            "calorific": 264
           },
           "mode": "30см",
           "description": "Сыр моцарелла , пепперони, халапеньо. К пицце подается фирменный томатный соус.",
@@ -4634,7 +4583,7 @@
       "category_id": 1,
       "marking_composition": "Сыр моцарелла, грибы шампиньоны, куриное филе жаренное, варёные креветки, лук зеленый, фирменный соус том ям. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
       "name": "Том-Ям",
-      "weight": 420.0,
+      "weight": 420,
       "modification_type": "default",
       "tags": [
         {
@@ -4664,27 +4613,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "tomyampizza-25",
-      "price": 690.0,
+      "price": 690,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Сыр моцарелла, грибы шампиньоны, куриное филе жаренное, варёные креветки, лук зеленый, фирменный соус том ям. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 420 г",
-          "weight": 420.0,
+          "weight": 420,
           "full_name": "Том-Ям: 25см",
           "slug": "tomyampizza-25",
-          "price": 690.0,
+          "price": 690,
           "discount": 0,
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 11.0,
-            "carbohydrate": 10.0,
-            "calorific": 156.0
+            "fat": 8,
+            "protein": 11,
+            "carbohydrate": 10,
+            "calorific": 156
           },
           "mode": "25см",
           "description": "Сыр моцарелла, грибы шампиньоны, куриное филе жаренное, варёные креветки, лук зеленый, фирменный соус том ям. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).\n",
@@ -4695,18 +4643,18 @@
           "category_id": 1,
           "marking_composition": "Сыр моцарелла, грибы шампиньоны, куриное филе жаренное, варёные креветки, лук зеленый, фирменный соус том ям. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 630 г",
-          "weight": 630.0,
+          "weight": 630,
           "full_name": "Том-Ям: 30см",
           "slug": "tomyampizza",
-          "price": 890.0,
+          "price": 890,
           "discount": 0,
           "nutritional_values": {
-            "fat": 17.0,
-            "protein": 15.0,
-            "carbohydrate": 20.0,
-            "calorific": 293.0
+            "fat": 17,
+            "protein": 15,
+            "carbohydrate": 20,
+            "calorific": 293
           },
           "mode": "30см",
           "description": "Сыр моцарелла, грибы шампиньоны, куриное филе жаренное, варёные креветки, лук зеленый, фирменный соус том ям. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
@@ -4724,33 +4672,31 @@
       "category_id": 1,
       "marking_composition": "Куриное филе жареное, Помидор, Бекон варенокопченый, Соус майонезный, Сыр моцарелла. К пицце подается фирменный томатный соус. ",
       "name": "Чикен бекон",
-      "weight": 415.0,
+      "weight": 415,
       "modification_type": "default",
-      "tags": [
-      ],
+      "tags": [],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "chikenbekon25",
-      "price": 400.0,
+      "price": 400,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Куриное филе жареное, Помидор, Бекон варенокопченый, Соус майонезный, Сыр моцарелла. К пицце подается фирменный томатный соус. ",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 415 г",
-          "weight": 415.0,
+          "weight": 415,
           "full_name": "Чикен бекон: 25см",
           "slug": "chikenbekon25",
-          "price": 400.0,
+          "price": 400,
           "discount": 0,
           "nutritional_values": {
-            "fat": 14.0,
-            "protein": 11.0,
-            "carbohydrate": 19.0,
-            "calorific": 246.0
+            "fat": 14,
+            "protein": 11,
+            "carbohydrate": 19,
+            "calorific": 246
           },
           "mode": "25см",
           "description": "Куриное филе жареное, Помидор, Бекон варенокопченый, Соус майонезный, Сыр моцарелла. К пицце подается фирменный томатный соус. ",
@@ -4761,18 +4707,18 @@
           "category_id": 1,
           "marking_composition": "Куриное филе жареное, Помидор, Бекон варенокопченый, Соус майонезный, Сыр моцарелла. К пицце подается фирменный томатный соус. ",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 635 г",
-          "weight": 635.0,
+          "weight": 635,
           "full_name": "Чикен бекон: 30см",
           "slug": "chikenbekon30",
-          "price": 535.0,
+          "price": 535,
           "discount": 0,
           "nutritional_values": {
-            "fat": 14.0,
-            "protein": 11.0,
-            "carbohydrate": 21.0,
-            "calorific": 254.0
+            "fat": 14,
+            "protein": 11,
+            "carbohydrate": 21,
+            "calorific": 254
           },
           "mode": "30см",
           "description": "Куриное филе жареное, Помидор, Бекон варенокопченый, Соус майонезный, Сыр моцарелла. К пицце подается фирменный томатный соус. ",
@@ -4790,7 +4736,7 @@
       "category_id": 1,
       "marking_composition": "Соус сливочный, Сыр Моцарелла, Лук красный, Грибы шампиньоны,  Куриное филе жареное. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
       "name": "Сливочный цыпленок",
-      "weight": 390.0,
+      "weight": 390,
       "modification_type": "default",
       "tags": [
         {
@@ -4812,27 +4758,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "slivochniytsipl-25",
-      "price": 390.0,
+      "price": 390,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Соус сливочный, Сыр Моцарелла, Лук красный, Грибы шампиньоны,  Куриное филе жареное. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 390 г",
-          "weight": 390.0,
+          "weight": 390,
           "full_name": "Сливочный цыпленок: 25см",
           "slug": "slivochniytsipl-25",
-          "price": 390.0,
+          "price": 390,
           "discount": 0,
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 8.0,
-            "carbohydrate": 11.0,
-            "calorific": 139.0
+            "fat": 7,
+            "protein": 8,
+            "carbohydrate": 11,
+            "calorific": 139
           },
           "mode": "25см",
           "description": "Хрустящее тесто со сливочным соусом, шампиньонами, сыром моцарелла, красным луком и жареным куриным филе.",
@@ -4843,18 +4788,18 @@
           "category_id": 1,
           "marking_composition": "Соус сливочный, Сыр Моцарелла, Лук красный, Грибы шампиньоны,  Куриное филе жареное. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 590 г",
-          "weight": 590.0,
+          "weight": 590,
           "full_name": "Сливочный цыпленок: 30см",
           "slug": "slivochniytsipl",
-          "price": 545.0,
+          "price": 545,
           "discount": 0,
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 11.0,
-            "carbohydrate": 16.0,
-            "calorific": 189.0
+            "fat": 9,
+            "protein": 11,
+            "carbohydrate": 16,
+            "calorific": 189
           },
           "mode": "30см",
           "description": "Хрустящее тесто со сливочным соусом, шампиньонами, сыром моцарелла, красным луком и жареным куриным филе.",
@@ -4872,33 +4817,31 @@
       "category_id": 1,
       "marking_composition": "Соус Гриль Хайнц, Сыр моцарелла, Лук красный, Огурцы маринованные, Помидор, Фарш говяжий жареный, Соус сырный. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
       "name": "Чиззи",
-      "weight": 630.0,
+      "weight": 630,
       "modification_type": "default",
-      "tags": [
-      ],
+      "tags": [],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "chizzi-30sm",
-      "price": 590.0,
+      "price": 590,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Соус Гриль Хайнц, Сыр моцарелла, Лук красный, Огурцы маринованные, Помидор, Фарш говяжий жареный, Соус сырный. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 630 г",
-          "weight": 630.0,
+          "weight": 630,
           "full_name": "Чиззи: 30см",
           "slug": "chizzi-30sm",
-          "price": 590.0,
+          "price": 590,
           "discount": 0,
           "nutritional_values": {
-            "fat": 13.0,
-            "protein": 10.0,
-            "carbohydrate": 22.0,
-            "calorific": 245.0
+            "fat": 13,
+            "protein": 10,
+            "carbohydrate": 22,
+            "calorific": 245
           },
           "mode": "30см",
           "description": "Соус Гриль Хайнц, Сыр моцарелла, Лук красный, Огурцы маринованные, Помидор, Фарш говяжий жареный, Соус сырный. К пицце подается фирменный томатный  соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый).",
@@ -4916,7 +4859,7 @@
       "category_id": 1,
       "marking_composition": "Пепперони, сыр моцарелла, соус томатный, тесто (мука, вода, дрожжи, соль, сахар, масло растительное).",
       "name": "Пепперони",
-      "weight": 330.0,
+      "weight": 330,
       "modification_type": "default",
       "tags": [
         {
@@ -4954,27 +4897,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pepperoni-25",
-      "price": 340.0,
+      "price": 340,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Пепперони, сыр моцарелла, соус томатный, тесто (мука, вода, дрожжи, соль, сахар, масло растительное).",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 330 г",
-          "weight": 330.0,
+          "weight": 330,
           "full_name": "Пепперони: 25см",
           "slug": "pepperoni-25",
-          "price": 340.0,
+          "price": 340,
           "discount": 0,
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 7.0,
-            "carbohydrate": 10.0,
-            "calorific": 176.0
+            "fat": 12,
+            "protein": 7,
+            "carbohydrate": 10,
+            "calorific": 176
           },
           "mode": "25см",
           "description": "Пицца, которая не оставит равнодушным ни одного гурмана: нежнейшее тесто, таящий во рту сыр моцарелла в сочетании с пепперони и томатным соусом.",
@@ -4985,18 +4927,18 @@
           "category_id": 1,
           "marking_composition": "Пепперони, сыр моцарелла, соус томатный, тесто (мука, вода, дрожжи, соль, сахар, масло растительное).",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 520 г",
-          "weight": 520.0,
+          "weight": 520,
           "full_name": "Пепперони: 30см",
           "slug": "pepperoni",
-          "price": 490.0,
+          "price": 490,
           "discount": 0,
           "nutritional_values": {
-            "fat": 16.0,
-            "protein": 11.0,
-            "carbohydrate": 19.0,
-            "calorific": 264.0
+            "fat": 16,
+            "protein": 11,
+            "carbohydrate": 19,
+            "calorific": 264
           },
           "mode": "30см",
           "description": "Пицца, которая не оставит равнодушным ни одного гурмана: нежнейшее тесто, таящий во рту сыр моцарелла в сочетании с пепперони и томатным соусом.",
@@ -5014,7 +4956,7 @@
       "category_id": 1,
       "marking_composition": "Соус томатный Хайнц, Лук красный, Огурцы маринованные,  Ветчина, Колбаса полукопченая, Помидор, Сыр моцарелла,  Майонез, Укроп. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
       "name": "Домашняя",
-      "weight": 420.0,
+      "weight": 420,
       "modification_type": "default",
       "tags": [
         {
@@ -5044,27 +4986,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pizza-domashnaya25",
-      "price": 380.0,
+      "price": 380,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Соус томатный Хайнц, Лук красный, Огурцы маринованные,  Ветчина, Колбаса полукопченая, Помидор, Сыр моцарелла,  Майонез, Укроп. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 420 г",
-          "weight": 420.0,
+          "weight": 420,
           "full_name": "Домашняя: 25см",
           "slug": "pizza-domashnaya25",
-          "price": 380.0,
+          "price": 380,
           "discount": 0,
           "nutritional_values": {
-            "fat": 10.0,
-            "protein": 6.0,
-            "carbohydrate": 10.0,
-            "calorific": 154.0
+            "fat": 10,
+            "protein": 6,
+            "carbohydrate": 10,
+            "calorific": 154
           },
           "mode": "25см",
           "description": "Хит продаж: пицца на тонком тесте, ветчина, полукопченая колбаса, маринованные огурцы, сочные помидоры, и всё это сверху покрыто нежнейшим сыром моцарелла, красным луком, укропом, майонезом и фирменным томатным соусом.",
@@ -5075,18 +5016,18 @@
           "category_id": 1,
           "marking_composition": "Соус томатный Хайнц, Лук красный, Огурцы маринованные,  Ветчина, Колбаса полукопченая, Помидор, Сыр моцарелла,  Майонез, Укроп. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 630 г",
-          "weight": 630.0,
+          "weight": 630,
           "full_name": "Домашняя: 30см",
           "slug": "pizza-domashnaya",
-          "price": 495.0,
+          "price": 495,
           "discount": 0,
           "nutritional_values": {
-            "fat": 14.0,
-            "protein": 9.0,
-            "carbohydrate": 16.0,
-            "calorific": 226.0
+            "fat": 14,
+            "protein": 9,
+            "carbohydrate": 16,
+            "calorific": 226
           },
           "mode": "30см",
           "description": "Хит продаж: пицца на тонком тесте, ветчина, полукопченая колбаса, маринованные огурцы, сочные помидоры, и всё это сверху покрыто нежнейшим сыром моцарелла, красным луком, укропом, майонезом и фирменным томатным соусом.",
@@ -5104,7 +5045,7 @@
       "category_id": 1,
       "marking_composition": "Сыры: дорблю (сыр с голубой плесенью), пармезан, гауда и моцарелла, соус сливочный К пицце подается фирменный майонезный соус.",
       "name": "Четыре сыра",
-      "weight": 310.0,
+      "weight": 310,
       "modification_type": "default",
       "tags": [
         {
@@ -5126,27 +5067,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "chetyresyra-25",
-      "price": 365.0,
+      "price": 365,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Сыры: дорблю (сыр с голубой плесенью), пармезан, гауда и моцарелла, соус сливочный К пицце подается фирменный майонезный соус.",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 310 г",
-          "weight": 310.0,
+          "weight": 310,
           "full_name": "Четыре сыра: 25см",
           "slug": "chetyresyra-25",
-          "price": 365.0,
+          "price": 365,
           "discount": 0,
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 5.0,
-            "carbohydrate": 10.0,
-            "calorific": 141.0
+            "fat": 9,
+            "protein": 5,
+            "carbohydrate": 10,
+            "calorific": 141
           },
           "mode": "25см",
           "description": "Сыры: дорблю (сыр с голубой плесенью), пармезан, гауда и моцарелла, соус сливочный. К пицце подается фирменный майонезный соус.",
@@ -5157,18 +5097,18 @@
           "category_id": 1,
           "marking_composition": "Сыры: дорблю (сыр с голубой плесенью), пармезан, гауда и моцарелла, соус сливочный К пицце подается фирменный майонезный соус",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 430 г",
-          "weight": 430.0,
+          "weight": 430,
           "full_name": "Четыре сыра: 30см",
           "slug": "chetyresyra",
-          "price": 525.0,
+          "price": 525,
           "discount": 0,
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 7.0,
-            "carbohydrate": 15.0,
-            "calorific": 196.0
+            "fat": 12,
+            "protein": 7,
+            "carbohydrate": 15,
+            "calorific": 196
           },
           "mode": "30см",
           "description": "Сыры: дорблю (сыр с голубой плесенью), пармезан, гауда и моцарелла, соус сливочный. К пицце подается фирменный майонезный соус.",
@@ -5186,7 +5126,7 @@
       "category_id": 1,
       "marking_composition": "Филе куриное варено-копченое, помидор, соус \"Heinz\" сырный, сыр моцарелла, соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус",
       "name": "Чикен Чиз",
-      "weight": 410.0,
+      "weight": 410,
       "modification_type": "default",
       "tags": [
         {
@@ -5216,27 +5156,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "chicken-cheese-25",
-      "price": 345.0,
+      "price": 345,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Филе куриное варено-копченое, помидор, соус \"Heinz\" сырный, сыр моцарелла, соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 410 г",
-          "weight": 410.0,
+          "weight": 410,
           "full_name": "Чикен Чиз: 25см",
           "slug": "chicken-cheese-25",
-          "price": 345.0,
+          "price": 345,
           "discount": 0,
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 8.0,
-            "carbohydrate": 16.0,
-            "calorific": 159.0
+            "fat": 7,
+            "protein": 8,
+            "carbohydrate": 16,
+            "calorific": 159
           },
           "mode": "25см",
           "description": "Куриная грудка варёно-копчёная, томаты, сыр моцарелла и сырный соус \"Heinz\"– (звучит как) идеальное сочетание продуктов для сытного обеда.",
@@ -5247,18 +5186,18 @@
           "category_id": 1,
           "marking_composition": "Филе куриное варено-копченое, помидор, соус \"Heinz\" сырный, сыр моцарелла, соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 630 г",
-          "weight": 630.0,
+          "weight": 630,
           "full_name": "Чикен Чиз: 30см",
           "slug": "chicken-cheese",
-          "price": 495.0,
+          "price": 495,
           "discount": 0,
           "nutritional_values": {
-            "fat": 10.0,
-            "protein": 14.0,
-            "carbohydrate": 26.0,
-            "calorific": 250.0
+            "fat": 10,
+            "protein": 14,
+            "carbohydrate": 26,
+            "calorific": 250
           },
           "mode": "30см",
           "description": "Куриная грудка варёно-копчёная, томаты, сыр моцарелла и сырный соус \"Heinz\"– (звучит как) идеальное сочетание продуктов для сытного обеда.",
@@ -5276,33 +5215,31 @@
       "category_id": 1,
       "marking_composition": "Помидор, петрушка, сыр моцарелла, соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус.",
       "name": "Маргарита",
-      "weight": 385.0,
+      "weight": 385,
       "modification_type": "default",
-      "tags": [
-      ],
+      "tags": [],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pizza-margarita-25",
-      "price": 290.0,
+      "price": 290,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Помидор, петрушка, сыр моцарелла, соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус.",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 385 г",
-          "weight": 385.0,
+          "weight": 385,
           "full_name": "Маргарита: 25см",
           "slug": "pizza-margarita-25",
-          "price": 290.0,
+          "price": 290,
           "discount": 0,
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 4.0,
-            "carbohydrate": 10.0,
-            "calorific": 101.0
+            "fat": 5,
+            "protein": 4,
+            "carbohydrate": 10,
+            "calorific": 101
           },
           "mode": "25см",
           "description": "Вкусное, тонкое тесто, сладкие помидоры и сыр моцарелла, украшенные сверху петрушкой – ингредиенты вашего идеального вечера.",
@@ -5313,18 +5250,18 @@
           "category_id": 1,
           "marking_composition": "Помидор, петрушка, сыр моцарелла, соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус.",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 495 г",
-          "weight": 495.0,
+          "weight": 495,
           "full_name": "Маргарита: 30см",
           "slug": "pizza-margarita",
-          "price": 395.0,
+          "price": 395,
           "discount": 0,
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 6.0,
-            "carbohydrate": 22.0,
-            "calorific": 184.0
+            "fat": 8,
+            "protein": 6,
+            "carbohydrate": 22,
+            "calorific": 184
           },
           "mode": "30см",
           "description": "Вкусное, тонкое тесто, сладкие помидоры и сыр моцарелла, украшенные сверху петрушкой – ингредиенты вашего идеального вечера.",
@@ -5342,7 +5279,7 @@
       "category_id": 1,
       "marking_composition": "Ветчина и грибы 25 см, Маргарита 25 см, Пепперони 25 см, Сок 1л, Игра слов.",
       "name": "Комбо Пати",
-      "weight": 1065.0,
+      "weight": 1065,
       "modification_type": "default",
       "tags": [
         {
@@ -5382,7 +5319,7 @@
       "elements": 0,
       "components": [
         {
-          "weight": 385.0,
+          "weight": 385,
           "name": "Маргарита 25см",
           "product_id": 23409,
           "elements": 0,
@@ -5391,7 +5328,7 @@
           "image": "https://cdn.farfor.ru/media/cache/2e/fc/2efc4ce6ab15c53900377274ac3ac65d.jpg"
         },
         {
-          "weight": 330.0,
+          "weight": 330,
           "name": "Пепперони 25см",
           "product_id": 23412,
           "elements": 0,
@@ -5400,7 +5337,7 @@
           "image": "https://cdn.farfor.ru/media/cache/9e/b2/9eb2c8f45d088084a78e7dc998f14e6b.jpg"
         },
         {
-          "weight": 350.0,
+          "weight": 350,
           "name": "Ветчина и грибы 25см",
           "product_id": 25689,
           "elements": 0,
@@ -5409,7 +5346,7 @@
           "image": "https://cdn.farfor.ru/media/cache/e1/ea/e1eaf779e55dfbe80b2843f3cdc7624c.jpg"
         },
         {
-          "weight": 50.0,
+          "weight": 50,
           "name": "Карты Слов",
           "product_id": 25378,
           "elements": 0,
@@ -5418,7 +5355,7 @@
           "image": "https://cdn.farfor.ru/media/cache/3c/dd/3cdd678d005d4964c06e9ed40e4b28c2.jpg"
         },
         {
-          "weight": 1000.0,
+          "weight": 1000,
           "name": "Сок  1 л",
           "product_id": 1640,
           "elements": 0,
@@ -5428,24 +5365,24 @@
         }
       ],
       "slug": "kombo-pati",
-      "price": 995.0,
+      "price": 995,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Ветчина и грибы 25 см, Маргарита 25 см, Пепперони 25 см, Сок 1л, Игра слов.",
           "name": "Комбо Пати",
-          "subprice": 1055.0,
+          "subprice": 1055,
           "sizes": "1065 г",
-          "weight": 1065.0,
+          "weight": 1065,
           "full_name": "Комбо Пати",
           "slug": "kombo-pati",
-          "price": 995.0,
+          "price": 995,
           "discount": 6,
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 8.0,
-            "carbohydrate": 15.0,
-            "calorific": 173.0
+            "fat": 9,
+            "protein": 8,
+            "carbohydrate": 15,
+            "calorific": 173
           },
           "mode": "",
           "description": "Ветчина и грибы 25 см, Маргарита 25 см, Пепперони 25 см, Сок 1л, Игра слов.",
@@ -5463,7 +5400,7 @@
       "category_id": 1,
       "marking_composition": "Маргарита 25 см, Ветчина и грибы 25 см, Пепперони 25 см, ЧикенЧиз 25 см, Четыре сезона 25 см, Гавайская с курицей 25 см, Домашняя 25 см, Терияки 25 см.",
       "name": "Комбо 8 пицц",
-      "weight": 3075.0,
+      "weight": 3075,
       "modification_type": "default",
       "tags": [
         {
@@ -5503,7 +5440,7 @@
       "elements": 0,
       "components": [
         {
-          "weight": 385.0,
+          "weight": 385,
           "name": "Маргарита 25см",
           "product_id": 23409,
           "elements": 0,
@@ -5512,7 +5449,7 @@
           "image": "https://cdn.farfor.ru/media/cache/2e/fc/2efc4ce6ab15c53900377274ac3ac65d.jpg"
         },
         {
-          "weight": 350.0,
+          "weight": 350,
           "name": "Ветчина и грибы 25см",
           "product_id": 23395,
           "elements": 0,
@@ -5521,7 +5458,7 @@
           "image": "https://cdn.farfor.ru/media/cache/9f/c9/9fc98175aa9a8290ba8bdede4c23dab8.jpg"
         },
         {
-          "weight": 330.0,
+          "weight": 330,
           "name": "Пепперони 25см",
           "product_id": 23412,
           "elements": 0,
@@ -5530,7 +5467,7 @@
           "image": "https://cdn.farfor.ru/media/cache/9e/b2/9eb2c8f45d088084a78e7dc998f14e6b.jpg"
         },
         {
-          "weight": 410.0,
+          "weight": 410,
           "name": "Чикен Чиз 25см",
           "product_id": 23430,
           "elements": 0,
@@ -5539,7 +5476,7 @@
           "image": "https://cdn.farfor.ru/media/cache/11/4d/114d3aa220ebf3e3193e749f8945288b.jpg"
         },
         {
-          "weight": 415.0,
+          "weight": 415,
           "name": "Четыре сезона 25см",
           "product_id": 23426,
           "elements": 0,
@@ -5548,7 +5485,7 @@
           "image": "https://cdn.farfor.ru/media/cache/c8/6f/c86f03892d0444af0335992ce4e9274d.jpg"
         },
         {
-          "weight": 380.0,
+          "weight": 380,
           "name": "Гавайская с курицей 25см",
           "product_id": 23397,
           "elements": 0,
@@ -5557,7 +5494,7 @@
           "image": "https://cdn.farfor.ru/media/cache/27/4e/274e654ed045867d6e5a434de077b8b8.jpg"
         },
         {
-          "weight": 420.0,
+          "weight": 420,
           "name": "Домашняя 25см",
           "product_id": 23402,
           "elements": 0,
@@ -5566,7 +5503,7 @@
           "image": "https://cdn.farfor.ru/media/cache/47/3c/473c190f1b9da9860f3072e5abf4253a.jpg"
         },
         {
-          "weight": 400.0,
+          "weight": 400,
           "name": "Терияки 25см",
           "product_id": 23421,
           "elements": 0,
@@ -5576,24 +5513,24 @@
         }
       ],
       "slug": "kombo8",
-      "price": 2495.0,
+      "price": 2495,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Маргарита 25 см, Ветчина и грибы 25 см, Пепперони 25 см, ЧикенЧиз 25 см, Четыре сезона 25 см, Гавайская с курицей 25 см, Домашняя 25 см, Терияки 25 см.",
           "name": "25см",
-          "subprice": 2775.0,
+          "subprice": 2775,
           "sizes": "25см 3075 г",
-          "weight": 3075.0,
+          "weight": 3075,
           "full_name": "Комбо 8 пицц: 25см",
           "slug": "kombo8",
-          "price": 2495.0,
+          "price": 2495,
           "discount": 11,
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 11.0,
-            "carbohydrate": 21.0,
-            "calorific": 227.0
+            "fat": 11,
+            "protein": 11,
+            "carbohydrate": 21,
+            "calorific": 227
           },
           "mode": "25см",
           "description": "Маргарита 25 см, Ветчина и грибы 25 см, Пепперони 25 см, ЧикенЧиз 25 см, Четыре сезона 25 см, Гавайская с курицей 25 см, Домашняя 25 см, Терияки 25 см.",
@@ -5611,7 +5548,7 @@
       "category_id": 1,
       "marking_composition": "Чикен чиз 25см, Маргарита 25см, Четыре сезона 25см, Гавайская с курицей 25см, Пепперони 25см.",
       "name": "Комбо 5 пицц",
-      "weight": 1905.0,
+      "weight": 1905,
       "modification_type": "default",
       "tags": [
         {
@@ -5659,7 +5596,7 @@
       "elements": 0,
       "components": [
         {
-          "weight": 410.0,
+          "weight": 410,
           "name": "Чикен Чиз 25см",
           "product_id": 23430,
           "elements": 0,
@@ -5668,7 +5605,7 @@
           "image": "https://cdn.farfor.ru/media/cache/11/4d/114d3aa220ebf3e3193e749f8945288b.jpg"
         },
         {
-          "weight": 385.0,
+          "weight": 385,
           "name": "Маргарита 25см",
           "product_id": 23409,
           "elements": 0,
@@ -5677,7 +5614,7 @@
           "image": "https://cdn.farfor.ru/media/cache/2e/fc/2efc4ce6ab15c53900377274ac3ac65d.jpg"
         },
         {
-          "weight": 415.0,
+          "weight": 415,
           "name": "Четыре сезона 25см",
           "product_id": 23426,
           "elements": 0,
@@ -5686,7 +5623,7 @@
           "image": "https://cdn.farfor.ru/media/cache/c8/6f/c86f03892d0444af0335992ce4e9274d.jpg"
         },
         {
-          "weight": 380.0,
+          "weight": 380,
           "name": "Гавайская с курицей 25см",
           "product_id": 23397,
           "elements": 0,
@@ -5695,7 +5632,7 @@
           "image": "https://cdn.farfor.ru/media/cache/27/4e/274e654ed045867d6e5a434de077b8b8.jpg"
         },
         {
-          "weight": 330.0,
+          "weight": 330,
           "name": "Пепперони 25см",
           "product_id": 23412,
           "elements": 0,
@@ -5705,24 +5642,24 @@
         }
       ],
       "slug": "kombo5",
-      "price": 1495.0,
+      "price": 1495,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Чикен чиз 25см, Маргарита 25см, Четыре сезона 25см, Гавайская с курицей 25см, Пепперони 25см.",
           "name": "25см",
-          "subprice": 1680.0,
+          "subprice": 1680,
           "sizes": "25см 1905 г",
-          "weight": 1905.0,
+          "weight": 1905,
           "full_name": "Комбо 5 пицц: 25см",
           "slug": "kombo5",
-          "price": 1495.0,
+          "price": 1495,
           "discount": 12,
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 10.0,
-            "carbohydrate": 21.0,
-            "calorific": 232.0
+            "fat": 12,
+            "protein": 10,
+            "carbohydrate": 21,
+            "calorific": 232
           },
           "mode": "25см",
           "description": "Чикен чиз 25см, Маргарита 25см, Четыре сезона 25см, Гавайская с курицей 25см, Пепперони 25см.",
@@ -5740,7 +5677,7 @@
       "category_id": 1,
       "marking_composition": "Ветчина. Грибы шампиньоны. Сыр моцарелла. Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус.",
       "name": "Ветчина и грибы",
-      "weight": 350.0,
+      "weight": 350,
       "modification_type": "default",
       "tags": [
         {
@@ -5778,27 +5715,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "vetchina-griby-25",
-      "price": 315.0,
+      "price": 315,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Ветчина. Грибы шампиньоны. Сыр моцарелла. Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус.",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 350 г",
-          "weight": 350.0,
+          "weight": 350,
           "full_name": "Ветчина и грибы: 25см",
           "slug": "vetchina-griby-25",
-          "price": 315.0,
+          "price": 315,
           "discount": 0,
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 5.0,
-            "carbohydrate": 11.0,
-            "calorific": 136.0
+            "fat": 8,
+            "protein": 5,
+            "carbohydrate": 11,
+            "calorific": 136
           },
           "mode": "25см",
           "description": "Ветчина, грибы шампиньоны, сыр моцарелла, соус томатный. К пицце подается фирменный томатный соус.",
@@ -5809,18 +5745,18 @@
           "category_id": 1,
           "marking_composition": "",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 525 г",
-          "weight": 525.0,
+          "weight": 525,
           "full_name": "Ветчина и грибы: 30см",
           "slug": "vetchina-griby",
-          "price": 470.0,
+          "price": 470,
           "discount": 0,
           "nutritional_values": {
-            "fat": 14.0,
-            "protein": 11.0,
-            "carbohydrate": 23.0,
-            "calorific": 262.0
+            "fat": 14,
+            "protein": 11,
+            "carbohydrate": 23,
+            "calorific": 262
           },
           "mode": "30см",
           "description": "Ветчина. Грибы шампиньоны. Сыр моцарелла. Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый). К пицце подается фирменный томатный соус.",
@@ -5838,7 +5774,7 @@
       "category_id": 1,
       "marking_composition": "Клубника, сахар, ванилин, лимонная кислота, сгущенное молоко, соус сливочный.",
       "name": "Пицца с клубникой",
-      "weight": 645.0,
+      "weight": 645,
       "modification_type": "default",
       "tags": [
         {
@@ -5852,27 +5788,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pitstsa-pie-klubnika",
-      "price": 410.0,
+      "price": 410,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Клубника, сахар, ванилин, лимонная кислота, сгущенное молоко, соус сливочный.",
           "name": "Пицца с клубникой",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "645 г",
-          "weight": 645.0,
+          "weight": 645,
           "full_name": "Пицца с клубникой",
           "slug": "pitstsa-pie-klubnika",
-          "price": 410.0,
+          "price": 410,
           "discount": 0,
           "nutritional_values": {
-            "fat": 4.0,
-            "protein": 4.0,
-            "carbohydrate": 30.0,
-            "calorific": 172.0
+            "fat": 4,
+            "protein": 4,
+            "carbohydrate": 30,
+            "calorific": 172
           },
           "mode": "",
           "description": "Клубника, сахар, ванилин, лимонная кислота, сгущенное молоко, соус сливочный.",
@@ -5890,7 +5825,7 @@
       "category_id": 1,
       "marking_composition": "Вишня, сахар, ванилин, топпинг шоколадный, соус сливочный.",
       "name": "Пицца с вишней",
-      "weight": 645.0,
+      "weight": 645,
       "modification_type": "default",
       "tags": [
         {
@@ -5904,27 +5839,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pitstsa-pie-vishnya",
-      "price": 440.0,
+      "price": 440,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Вишня, сахар, ванилин, топпинг шоколадный, соус сливочный.",
           "name": "Пицца с вишней",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "645 г",
-          "weight": 645.0,
+          "weight": 645,
           "full_name": "Пицца с вишней",
           "slug": "pitstsa-pie-vishnya",
-          "price": 440.0,
+          "price": 440,
           "discount": 0,
           "nutritional_values": {
-            "fat": 5.0,
-            "protein": 4.0,
-            "carbohydrate": 33.0,
-            "calorific": 193.0
+            "fat": 5,
+            "protein": 4,
+            "carbohydrate": 33,
+            "calorific": 193
           },
           "mode": "",
           "description": "Вишня, сахар, ванилин, топпинг шоколадный, соус сливочный.",
@@ -5942,7 +5876,7 @@
       "category_id": 1,
       "marking_composition": "Яблоки, сахар, масло сливочное, лимон, корица, топпинг карамельный, соус сливочный.",
       "name": "Пицца с яблоками",
-      "weight": 635.0,
+      "weight": 635,
       "modification_type": "default",
       "tags": [
         {
@@ -5956,27 +5890,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pitstsa-pie-yabloko",
-      "price": 410.0,
+      "price": 410,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Яблоки, сахар, масло сливочное, лимон, корица, топпинг карамельный, соус сливочный.",
           "name": "Пицца с яблоками",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "635 г",
-          "weight": 635.0,
+          "weight": 635,
           "full_name": "Пицца с яблоками",
           "slug": "pitstsa-pie-yabloko",
-          "price": 410.0,
+          "price": 410,
           "discount": 0,
           "nutritional_values": {
-            "fat": 6.0,
-            "protein": 3.0,
-            "carbohydrate": 35.0,
-            "calorific": 206.0
+            "fat": 6,
+            "protein": 3,
+            "carbohydrate": 35,
+            "calorific": 206
           },
           "mode": "",
           "description": "Яблоки, сахар, масло сливочное, лимон, корица, топпинг карамельный, соус сливочный.",
@@ -5994,7 +5927,7 @@
       "category_id": 1,
       "marking_composition": "Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый), Сыр моцарелла , Сыр брынза, Колбаса Пепперони, Помидор, Грибы шампиньоны, Ветчина, Петрушка. К пицце подается фирменный томатный соус",
       "name": "Четыре сезона",
-      "weight": 415.0,
+      "weight": 415,
       "modification_type": "default",
       "tags": [
         {
@@ -6032,27 +5965,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "4-sezona-25",
-      "price": 335.0,
+      "price": 335,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый), Сыр моцарелла , Сыр брынза, Колбаса Пепперони, Помидор, Грибы шампиньоны, Ветчина, Петрушка. К пицце подается фирменный томатный соус",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 415 г",
-          "weight": 415.0,
+          "weight": 415,
           "full_name": "Четыре сезона: 25см",
           "slug": "4-sezona-25",
-          "price": 335.0,
+          "price": 335,
           "discount": 0,
           "nutritional_values": {
-            "fat": 6.0,
-            "protein": 6.0,
-            "carbohydrate": 11.0,
-            "calorific": 122.0
+            "fat": 6,
+            "protein": 6,
+            "carbohydrate": 11,
+            "calorific": 122
           },
           "mode": "25см",
           "description": "Соус томатный, сыр моцарелла, сыр брынза, колбаса пепперони, помидор, грибы шампиньоны, ветчина, петрушка. К пицце подается фирменный томатный соус.",
@@ -6063,18 +5995,18 @@
           "category_id": 1,
           "marking_composition": "Соус томатный (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый), Сыр моцарелла , Сыр брынза, Колбаса Пепперони, Помидор, Грибы шампиньоны, Ветчина, Петрушка. К пицце подается фирменный томатный соус",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 630 г",
-          "weight": 630.0,
+          "weight": 630,
           "full_name": "Четыре сезона: 30см",
           "slug": "4-sezona",
-          "price": 470.0,
+          "price": 470,
           "discount": 0,
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 11.0,
-            "carbohydrate": 26.0,
-            "calorific": 229.0
+            "fat": 9,
+            "protein": 11,
+            "carbohydrate": 26,
+            "calorific": 229
           },
           "mode": "30см",
           "description": "Соус томатный, сыр моцарелла, сыр брынза, колбаса пепперони, помидор, грибы шампиньоны, ветчина, петрушка. К пицце подается фирменный томатный соус.",
@@ -6092,7 +6024,7 @@
       "category_id": 1,
       "marking_composition": "Ветчина, бекон варенокопченый, колбаса полукопченая, сыр моцарелла, соус томатный, фирменный томатный соус.",
       "name": "Мясная",
-      "weight": 375.0,
+      "weight": 375,
       "modification_type": "default",
       "tags": [
         {
@@ -6122,27 +6054,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pizza-myasnaya-25",
-      "price": 365.0,
+      "price": 365,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Ветчина, бекон варенокопченый, колбаса полукопченая, сыр моцарелла, соус томатный, фирменный томатный соус.",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 375 г",
-          "weight": 375.0,
+          "weight": 375,
           "full_name": "Мясная: 25см",
           "slug": "pizza-myasnaya-25",
-          "price": 365.0,
+          "price": 365,
           "discount": 0,
           "nutritional_values": {
-            "fat": 11.0,
-            "protein": 8.0,
-            "carbohydrate": 11.0,
-            "calorific": 175.0
+            "fat": 11,
+            "protein": 8,
+            "carbohydrate": 11,
+            "calorific": 175
           },
           "mode": "25см",
           "description": "Любимая пицца наших гостей на хрустящем тесте с сочной ветчиной, сырокопченым беконом, полукопченой колбасой, сыром моцарелла и пряным томатным соусом.",
@@ -6153,18 +6084,18 @@
           "category_id": 1,
           "marking_composition": "Ветчина, бекон варенокопченый, колбаса полукопченая, сыр моцарелла, соус томатный, фирменный томатный соус.",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 520 г",
-          "weight": 520.0,
+          "weight": 520,
           "full_name": "Мясная: 30см",
           "slug": "pizza-myasnaya",
-          "price": 525.0,
+          "price": 525,
           "discount": 0,
           "nutritional_values": {
-            "fat": 15.0,
-            "protein": 12.0,
-            "carbohydrate": 16.0,
-            "calorific": 247.0
+            "fat": 15,
+            "protein": 12,
+            "carbohydrate": 16,
+            "calorific": 247
           },
           "mode": "30см",
           "description": "Любимая пицца наших гостей на хрустящем тесте с сочной ветчиной, сырокопченым беконом, полукопченой колбасой, сыром моцарелла и пряным томатным соусом.",
@@ -6182,7 +6113,7 @@
       "category_id": 1,
       "marking_composition": "Куриное филе жареное, сыр моцарелла, помидор, соус гавайский, соус терияки, лук зеленый, фирменный соус терияки.",
       "name": "Терияки",
-      "weight": 400.0,
+      "weight": 400,
       "modification_type": "default",
       "tags": [
         {
@@ -6204,27 +6135,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pizza-teriyaki-25",
-      "price": 400.0,
+      "price": 400,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Куриное филе жареное, сыр моцарелла, помидор, соус гавайский, соус терияки, лук зеленый, фирменный соус терияки.",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 400 г",
-          "weight": 400.0,
+          "weight": 400,
           "full_name": "Терияки: 25см",
           "slug": "pizza-teriyaki-25",
-          "price": 400.0,
+          "price": 400,
           "discount": 0,
           "nutritional_values": {
-            "fat": 6.0,
-            "protein": 9.0,
-            "carbohydrate": 13.0,
-            "calorific": 142.0
+            "fat": 6,
+            "protein": 9,
+            "carbohydrate": 13,
+            "calorific": 142
           },
           "mode": "25см",
           "description": "Куриное филе жареное, сыр моцарелла, помидор, соус гавайский, соус терияки, лук зеленый. К пицце подается фирменный соус терияки.",
@@ -6235,18 +6165,18 @@
           "category_id": 1,
           "marking_composition": "Куриное филе жареное, сыр моцарелла, помидор, соус гавайский, соус терияки, лук зеленый, фирменный соус терияки.",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 610 г",
-          "weight": 610.0,
+          "weight": 610,
           "full_name": "Терияки: 30см",
           "slug": "pizza-teriyaki",
-          "price": 535.0,
+          "price": 535,
           "discount": 0,
           "nutritional_values": {
-            "fat": 12.0,
-            "protein": 17.0,
-            "carbohydrate": 25.0,
-            "calorific": 276.0
+            "fat": 12,
+            "protein": 17,
+            "carbohydrate": 25,
+            "calorific": 276
           },
           "mode": "30см",
           "description": "Куриное филе жареное, сыр моцарелла, помидор, соус гавайский, соус терияки, лук зеленый. К пицце подается фирменный соус терияки.",
@@ -6264,7 +6194,7 @@
       "category_id": 1,
       "marking_composition": "Сыр моцарелла, бекон варенокопченый, соус сливочный, лук красный, сыр пармезан, фирменный сливочный соус.",
       "name": "Карбонара",
-      "weight": 365.0,
+      "weight": 365,
       "modification_type": "default",
       "tags": [
         {
@@ -6278,27 +6208,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "pizza-karbonara-25",
-      "price": 395.0,
+      "price": 395,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Сыр моцарелла, бекон варенокопченый, соус сливочный, лук красный, сыр пармезан, фирменный сливочный соус.",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 365 г",
-          "weight": 365.0,
+          "weight": 365,
           "full_name": "Карбонара: 25см",
           "slug": "pizza-karbonara-25",
-          "price": 395.0,
+          "price": 395,
           "discount": 0,
           "nutritional_values": {
-            "fat": 10.0,
-            "protein": 6.0,
-            "carbohydrate": 10.0,
-            "calorific": 154.0
+            "fat": 10,
+            "protein": 6,
+            "carbohydrate": 10,
+            "calorific": 154
           },
           "mode": "25см",
           "description": "Классическая пицца на хрустящем тесте с сочным беконом, сливочным соусом, красным луком, а также сырами моцарелла и пармезан.",
@@ -6309,18 +6238,18 @@
           "category_id": 1,
           "marking_composition": "Сыр моцарелла, бекон варенокопченый, соус сливочный, лук красный, сыр пармезан, фирменный сливочный соус.",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 550 г",
-          "weight": 550.0,
+          "weight": 550,
           "full_name": "Карбонара: 30см",
           "slug": "pizza-karbonara",
-          "price": 545.0,
+          "price": 545,
           "discount": 0,
           "nutritional_values": {
-            "fat": 14.0,
-            "protein": 8.0,
-            "carbohydrate": 16.0,
-            "calorific": 222.0
+            "fat": 14,
+            "protein": 8,
+            "carbohydrate": 16,
+            "calorific": 222
           },
           "mode": "30см",
           "description": "Классическая пицца на хрустящем тесте с сочным беконом, сливочным соусом, красным луком, а также сырами моцарелла и пармезан.",
@@ -6338,7 +6267,7 @@
       "category_id": 1,
       "marking_composition": "Ветчина, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
       "name": "Гавайская с ветчиной",
-      "weight": 365.0,
+      "weight": 365,
       "modification_type": "default",
       "tags": [
         {
@@ -6352,27 +6281,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "gavaiskaya-s-vetchinoy-25",
-      "price": 365.0,
+      "price": 365,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Ветчина, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 365 г",
-          "weight": 365.0,
+          "weight": 365,
           "full_name": "Гавайская с ветчиной: 25см",
           "slug": "gavaiskaya-s-vetchinoy-25",
-          "price": 365.0,
+          "price": 365,
           "discount": 0,
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 6.0,
-            "carbohydrate": 12.0,
-            "calorific": 144.0
+            "fat": 8,
+            "protein": 6,
+            "carbohydrate": 12,
+            "calorific": 144
           },
           "mode": "25см",
           "description": "Ветчина, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус.",
@@ -6383,18 +6311,18 @@
           "category_id": 1,
           "marking_composition": "Ветчина, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 560 г",
-          "weight": 560.0,
+          "weight": 560,
           "full_name": "Гавайская с ветчиной: 30см",
           "slug": "gavaiskaya-s-vetchinoy",
-          "price": 525.0,
+          "price": 525,
           "discount": 0,
           "nutritional_values": {
-            "fat": 10.0,
-            "protein": 10.0,
-            "carbohydrate": 23.0,
-            "calorific": 222.0
+            "fat": 10,
+            "protein": 10,
+            "carbohydrate": 23,
+            "calorific": 222
           },
           "mode": "30см",
           "description": "Ветчина, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус.",
@@ -6412,7 +6340,7 @@
       "category_id": 1,
       "marking_composition": "Филе куриное варено-копченое, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
       "name": "Гавайская с курицей",
-      "weight": 380.0,
+      "weight": 380,
       "modification_type": "default",
       "tags": [
         {
@@ -6434,27 +6362,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "gavaiskaya-25",
-      "price": 370.0,
+      "price": 370,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Филе куриное варено-копченое, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 380 г",
-          "weight": 380.0,
+          "weight": 380,
           "full_name": "Гавайская с курицей: 25см",
           "slug": "gavaiskaya-25",
-          "price": 370.0,
+          "price": 370,
           "discount": 0,
           "nutritional_values": {
-            "fat": 7.0,
-            "protein": 6.0,
-            "carbohydrate": 11.0,
-            "calorific": 131.0
+            "fat": 7,
+            "protein": 6,
+            "carbohydrate": 11,
+            "calorific": 131
           },
           "mode": "25см",
           "description": "Отличное сочетание нежного сыра моцарелла с варёно-копчёной куриной грудкой и консервированными ананасами в гавайском соусе для любителей необычных сочетаний.",
@@ -6465,18 +6392,18 @@
           "category_id": 1,
           "marking_composition": "Филе куриное варено-копченое, ананасы консервированные, сыр моцарелла, соус гавайский. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 590 г",
-          "weight": 590.0,
+          "weight": 590,
           "full_name": "Гавайская с курицей: 30см",
           "slug": "gavaiskaya",
-          "price": 535.0,
+          "price": 535,
           "discount": 0,
           "nutritional_values": {
-            "fat": 9.0,
-            "protein": 10.0,
-            "carbohydrate": 22.0,
-            "calorific": 209.0
+            "fat": 9,
+            "protein": 10,
+            "carbohydrate": 22,
+            "calorific": 209
           },
           "mode": "30см",
           "description": "Отличное сочетание нежного сыра моцарелла с варёно-копчёной куриной грудкой и консервированными ананасами в гавайском соусе для любителей необычных сочетаний.",
@@ -6494,7 +6421,7 @@
       "category_id": 1,
       "marking_composition": "Соус майонезный, моцарелла, помидор, куриное филе жареное, бекон, пармезан, яйцо, лук зеленый, укроп. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
       "name": "Деревенская",
-      "weight": 480.0,
+      "weight": 480,
       "modification_type": "default",
       "tags": [
         {
@@ -6508,27 +6435,26 @@
       ],
       "category_slug": "pizza",
       "elements": 0,
-      "components": [
-      ],
+      "components": [],
       "slug": "derevenskaya-25",
-      "price": 420.0,
+      "price": 420,
       "modifications": [
         {
           "category_id": 1,
           "marking_composition": "Соус майонезный, моцарелла, помидор, куриное филе жареное, бекон, пармезан, яйцо, лук зеленый, укроп. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "25см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "25см 480 г",
-          "weight": 480.0,
+          "weight": 480,
           "full_name": "Деревенская: 25см",
           "slug": "derevenskaya-25",
-          "price": 420.0,
+          "price": 420,
           "discount": 0,
           "nutritional_values": {
-            "fat": 6.0,
-            "protein": 8.0,
-            "carbohydrate": 11.0,
-            "calorific": 130.0
+            "fat": 6,
+            "protein": 8,
+            "carbohydrate": 11,
+            "calorific": 130
           },
           "mode": "25см",
           "description": "Соус майонезный, моцарелла, помидор, куриное филе жареное, бекон, пармезан, яйцо, лук зеленый, укроп. К пицце подается фирменный томатный соус.",
@@ -6539,18 +6465,18 @@
           "category_id": 1,
           "marking_composition": "Соус майонезный, моцарелла, помидор, куриное филе жареное, бекон, пармезан, яйцо, лук зеленый, укроп. К пицце подается фирменный томатный соус (соус томатный, лук репчатый, масло подсолнечное, уксус столовый, соль, перец черный молотый)",
           "name": "30см",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "30см 695 г",
-          "weight": 695.0,
+          "weight": 695,
           "full_name": "Деревенская: 30см",
           "slug": "derevenskaya",
-          "price": 590.0,
+          "price": 590,
           "discount": 0,
           "nutritional_values": {
-            "fat": 8.0,
-            "protein": 12.0,
-            "carbohydrate": 17.0,
-            "calorific": 188.0
+            "fat": 8,
+            "protein": 12,
+            "carbohydrate": 17,
+            "calorific": 188
           },
           "mode": "30см",
           "description": "Соус майонезный, моцарелла, помидор, куриное филе жареное, бекон, пармезан, яйцо, лук зеленый, укроп. К пицце подается фирменный томатный соус.",
@@ -6570,7 +6496,7 @@
       "category_id": 6,
       "marking_composition": "Паста том-ям, Острая паста из морепродуктов, Креветки, Грибы шампиньоны, Лук зеленый, Сливки, Перец чили, рис.",
       "name": "Том-ям суп с креветками",
-      "weight": 320.0,
+      "weight": 320,
       "modification_type": "default",
       "tags": [
         {
@@ -6600,28 +6526,26 @@
       ],
       "category_slug": "japan/supy",
       "elements": 0,
-      "components": [
-
-      ],
+      "components": [],
       "slug": "tom-yam-krevetki",
-      "price": 329.0,
+      "price": 329,
       "modifications": [
         {
           "category_id": 6,
           "marking_composition": "Паста том-ям, Острая паста из морепродуктов, Креветки, Грибы шампиньоны, Лук зеленый, Сливки, Перец чили, рис.",
           "name": "Том-ям суп с креветками",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "320 г",
-          "weight": 320.0,
+          "weight": 320,
           "full_name": "Том-ям суп с креветками",
           "slug": "tom-yam-krevetki",
-          "price": 329.0,
+          "price": 329,
           "discount": 0,
           "nutritional_values": {
-            "fat": 10.0,
-            "protein": 4.0,
-            "carbohydrate": 8.0,
-            "calorific": 138.0
+            "fat": 10,
+            "protein": 4,
+            "carbohydrate": 8,
+            "calorific": 138
           },
           "mode": "",
           "description": "Паста том-ям, Соус Шрирача, Креветки, Грибы шампиньоны, Лук зеленый, Сливки, Рис.",
@@ -6639,7 +6563,7 @@
       "category_id": 6,
       "marking_composition": "Паста том-ям, Острая паста из морепродуктов, Куриное филе, Грибы шампиньоны, Лук зеленый, Сливки, Перец чили, рис.",
       "name": "Том-ям суп с курицей",
-      "weight": 320.0,
+      "weight": 320,
       "modification_type": "default",
       "tags": [
         {
@@ -6677,28 +6601,26 @@
       ],
       "category_slug": "japan/supy",
       "elements": 0,
-      "components": [
-
-      ],
+      "components": [],
       "slug": "tom-yam-s-kuroi",
-      "price": 279.0,
+      "price": 279,
       "modifications": [
         {
           "category_id": 6,
           "marking_composition": "Паста том-ям, Острая паста из морепродуктов, Куриное филе, Грибы шампиньоны, Лук зеленый, Сливки, Перец чили, рис.",
           "name": "Том-ям суп с курицей",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "320 г",
-          "weight": 320.0,
+          "weight": 320,
           "full_name": "Том-ям суп с курицей",
           "slug": "tom-yam-s-kuroi",
-          "price": 279.0,
+          "price": 279,
           "discount": 0,
           "nutritional_values": {
             "fat": 10.3,
             "protein": 7.4,
             "carbohydrate": 9.9,
-            "calorific": 162.0
+            "calorific": 162
           },
           "mode": "",
           "description": "Паста том-ям, Соус Шрирача, Куриное филе, Грибы шампиньоны, Лук зеленый, Сливки, Рис.",
@@ -6716,7 +6638,7 @@
       "category_id": 6,
       "marking_composition": "",
       "name": "Мисо-суп",
-      "weight": 300.0,
+      "weight": 300,
       "modification_type": "default",
       "tags": [
         {
@@ -6730,28 +6652,26 @@
       ],
       "category_slug": "japan/supy",
       "elements": 0,
-      "components": [
-
-      ],
+      "components": [],
       "slug": "miso",
-      "price": 160.0,
+      "price": 160,
       "modifications": [
         {
           "category_id": 6,
           "marking_composition": "",
           "name": "Мисо-суп",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "300 г",
-          "weight": 300.0,
+          "weight": 300,
           "full_name": "Мисо-суп",
           "slug": "miso",
-          "price": 160.0,
+          "price": 160,
           "discount": 0,
           "nutritional_values": {
             "fat": 0.9,
             "protein": 1.6,
             "carbohydrate": 2.1,
-            "calorific": 23.0
+            "calorific": 23
           },
           "mode": "",
           "description": "Грибы шиитаке, вакаме, мисо паста темная, мисо паста светлая, приправа хондаши, сыр тофу, лук зеленый, белый кунжут жареный.",
@@ -6769,7 +6689,7 @@
       "category_id": 6,
       "marking_composition": "",
       "name": "Мисо-сяке",
-      "weight": 320.0,
+      "weight": 320,
       "modification_type": "default",
       "tags": [
         {
@@ -6783,28 +6703,26 @@
       ],
       "category_slug": "japan/supy",
       "elements": 0,
-      "components": [
-
-      ],
+      "components": [],
       "slug": "miso-syake",
-      "price": 210.0,
+      "price": 210,
       "modifications": [
         {
           "category_id": 6,
           "marking_composition": "",
           "name": "Мисо-сяке",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "320 г",
-          "weight": 320.0,
+          "weight": 320,
           "full_name": "Мисо-сяке",
           "slug": "miso-syake",
-          "price": 210.0,
+          "price": 210,
           "discount": 0,
           "nutritional_values": {
             "fat": 1.76,
             "protein": 2.7,
-            "carbohydrate": 2.0,
-            "calorific": 35.0
+            "carbohydrate": 2,
+            "calorific": 35
           },
           "mode": "",
           "description": "Лосось, грибы шиитаке, вакаме, мисо паста темная, мисо паста светлая, приправа хондаши, сыр тофу, лук зеленый, белый кунжут жареный.",
@@ -6822,7 +6740,7 @@
       "category_id": 6,
       "marking_composition": "",
       "name": "Мисо-унаги",
-      "weight": 320.0,
+      "weight": 320,
       "modification_type": "default",
       "tags": [
         {
@@ -6836,28 +6754,26 @@
       ],
       "category_slug": "japan/supy",
       "elements": 0,
-      "components": [
-
-      ],
+      "components": [],
       "slug": "miso-unagi",
-      "price": 290.0,
+      "price": 290,
       "modifications": [
         {
           "category_id": 6,
           "marking_composition": "",
           "name": "Мисо-унаги",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "320 г",
-          "weight": 320.0,
+          "weight": 320,
           "full_name": "Мисо-унаги",
           "slug": "miso-unagi",
-          "price": 290.0,
+          "price": 290,
           "discount": 0,
           "nutritional_values": {
             "fat": 1.6,
             "protein": 2.7,
             "carbohydrate": 2.6,
-            "calorific": 36.0
+            "calorific": 36
           },
           "mode": "",
           "description": "Угорь жареный, грибы шиитаке, вакаме, мисо паста темная, мисо паста светлая, приправа хондаши, сыр тофу, лук зеленый, белый кунжут жареный.",
@@ -6875,7 +6791,7 @@
       "category_id": 6,
       "marking_composition": "",
       "name": "Мисо-эби",
-      "weight": 320.0,
+      "weight": 320,
       "modification_type": "default",
       "tags": [
         {
@@ -6889,28 +6805,26 @@
       ],
       "category_slug": "japan/supy",
       "elements": 0,
-      "components": [
-
-      ],
+      "components": [],
       "slug": "miso-ebi",
-      "price": 190.0,
+      "price": 190,
       "modifications": [
         {
           "category_id": 6,
           "marking_composition": "",
           "name": "Мисо-эби",
-          "subprice": 0.0,
+          "subprice": 0,
           "sizes": "320 г",
-          "weight": 320.0,
+          "weight": 320,
           "full_name": "Мисо-эби",
           "slug": "miso-ebi",
-          "price": 190.0,
+          "price": 190,
           "discount": 0,
           "nutritional_values": {
             "fat": 0.9,
             "protein": 2.7,
             "carbohydrate": 1.8,
-            "calorific": 26.0
+            "calorific": 26
           },
           "mode": "",
           "description": "Креветки вареные, грибы шиитаке, вакаме, мисо паста темная, мисо паста светлая, приправа хондаши, сыр тофу, лук зеленый, белый кунжут жареный.",
@@ -6926,4 +6840,3 @@
     }
   ]
 }
-

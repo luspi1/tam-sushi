@@ -1,20 +1,40 @@
-import React, { FC } from 'react'
+import React, { FC, useEffect } from 'react'
 import styles from './style.module.css'
 import HomeCategory from '../CategoryItem/HomeCategory'
+import {
+	fetchCategories,
+	selectAllCategories,
+	selectStatusCategory
+} from '../../store/categorySlice'
+import { useDispatch, useSelector } from 'react-redux'
 
 export const HomeCategories: FC = () => {
+
+	const dispatch = useDispatch()
+
+	const items = useSelector(selectAllCategories)
+	const statusCategory = useSelector(selectStatusCategory)
+
+	useEffect(() => {
+		dispatch(fetchCategories())
+	}, [])
+
 	return (
-			<ul className={styles.categoriesList}>
-				<HomeCategory title="Суши"
-				              img="https://www.bigsushii.ru/thumb/2/JJCBRcdNnhUlpsEubvIN5Q/r/d/img_6619_yandex.jpg"
-				              link="/sushi"/>
-				<HomeCategory title="Пицца"
-				              img="https://www.tokyo-city.ru/images/interesno/Pitctca_-_natcionalnoe_italyanskoe_blyudo.jpg"
-				              link="/pizza"/>
-				<HomeCategory title="Супы"
-				              img="https://cdn.bahroma1.ru/goods/tom_yam_nov.jpg"
-				              link="/soup"/>
-			</ul>
+			<>
+				<ul className={styles.categoriesList}>
+					{
+						items.map(el => (
+								<HomeCategory title={el.name} image={el.image} link={el.slug} key={el.id}/>
+						))
+					}
+				</ul>
+				{
+						statusCategory === 'loading' && <h2>Загрузка....</h2>
+				}
+				{
+						statusCategory === 'error' && <h2>Произошла ошибка!!!</h2>
+				}
+			</>
 	)
 }
 
