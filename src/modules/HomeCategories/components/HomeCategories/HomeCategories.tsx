@@ -1,16 +1,14 @@
 import React, { FC, useEffect } from 'react'
 import styles from './style.module.css'
 import HomeCategory from '../CategoryItem/HomeCategory'
-import {
-	fetchCategories,
-	selectAllCategories,
-	selectStatusCategory
-} from '../../store/categorySlice'
-import { useDispatch, useSelector } from 'react-redux'
+import { selectAllCategories, selectStatusCategory, Status } from '../../store/categorySlice'
+import { useSelector } from 'react-redux'
+import { fetchCategories } from '../../api/fetchCategories'
+import { useAppDispatch } from '../../../../store/store'
 
 export const HomeCategories: FC = () => {
 
-	const dispatch = useDispatch()
+	const dispatch = useAppDispatch()
 
 	const items = useSelector(selectAllCategories)
 	const statusCategory = useSelector(selectStatusCategory)
@@ -29,10 +27,10 @@ export const HomeCategories: FC = () => {
 					}
 				</ul>
 				{
-						statusCategory === 'loading' && <h2>Загрузка....</h2>
+						statusCategory === Status.LOADING && <h2>Загрузка....</h2>
 				}
 				{
-						statusCategory === 'error' && <h2>Произошла ошибка!!!</h2>
+						statusCategory === Status.ERROR && <h2>Произошла ошибка!!!</h2>
 				}
 			</>
 	)

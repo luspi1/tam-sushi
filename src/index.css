@@ -33,6 +33,10 @@ body {
     color: #000000;
 }
 
+main.container {
+    padding: 40px 15px;
+}
+
 h1,
 h2,
 h3,

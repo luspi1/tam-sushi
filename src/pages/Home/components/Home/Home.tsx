@@ -1,18 +1,8 @@
-import React, { FC, useEffect, useState } from 'react'
+import React, { FC } from 'react'
 import styles from './style.module.css'
 import { HomeCategories } from '../../../../modules/HomeCategories'
 
 const Home: FC = () => {
-
-	const [sushi, setSushi] = useState([])
-
-
-	useEffect(() => {
-		fetch('http://localhost:3000/categories')
-				.then(res => res.json())
-				.then((json) => setSushi(json))
-	}, [])
-
 
 	return (
 			<div className={styles.homePage}>
@@ -21,7 +11,6 @@ const Home: FC = () => {
 				</h1>
 
 				<HomeCategories/>
-
 
 			</div>
 	)

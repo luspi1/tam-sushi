@@ -1,8 +1,6 @@
 import { createAsyncThunk, createSlice, PayloadAction } from '@reduxjs/toolkit'
-import { getAllCategories } from '../api/fetchCategories'
+import { fetchCategories} from '../api/fetchCategories'
 import { RootState } from '../../../store/store'
-import { Simulate } from 'react-dom/test-utils'
-import error = Simulate.error
 
 
 export interface ICategory {
@@ -11,9 +9,16 @@ export interface ICategory {
 	image: string,
 	id: string
 }
+
+export enum Status {
+	LOADING= 'loading',
+	SUCCESS = 'success',
+	ERROR = 'error'
+}
+
 interface CategoriesSliceState {
 	items: ICategory[],
-	status: null | 'loading' | 'resolved' | 'error'
+	status: Status | null
 }
 
 const initialState: CategoriesSliceState = {
@@ -21,10 +26,7 @@ const initialState: CategoriesSliceState = {
 	status: null,
 }
 
-export const fetchCategories = createAsyncThunk<ICategory[]>(
-		'category/fetchCategories',
-		getAllCategories
-)
+
 
 export const categorySlice = createSlice({
 	name: 'category',
@@ -34,19 +36,20 @@ export const categorySlice = createSlice({
 			state.items = payload
 		}
 	},
-	extraReducers: {
-		[fetchCategories.pending]: (state: CategoriesSliceState) => {
-			state.status = 'loading'
-		},
-		[fetchCategories.fulfilled]: (state: CategoriesSliceState, action: PayloadAction<ICategory[]>) => {
-			state.status = 'resolved'
-			state.items = action.payload
-		},
-		[fetchCategories.rejected]: (state: CategoriesSliceState) => {
-			state.status = 'error'
-		},
 
+	extraReducers: (builder) => {
+		builder.addCase(fetchCategories.pending, (state: CategoriesSliceState) => {
+			state.status = Status.LOADING
+		})
+		builder.addCase(fetchCategories.fulfilled, (state: CategoriesSliceState, action: PayloadAction<ICategory[]>) => {
+			state.status = Status.SUCCESS
+			state.items = action.payload
+		})
+		builder.addCase(fetchCategories.rejected, (state: CategoriesSliceState) => {
+			state.status = Status.ERROR
+		})
 	}
+
 })
 export const {setItems} = categorySlice.actions
 export const categoryReducer = categorySlice.reducer
