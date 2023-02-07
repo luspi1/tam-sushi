@@ -1,12 +1,10 @@
 import React from 'react'
-import ProductItem from '../../../../components/ProductItem/ProductItem'
-import ProductsList from '../../../../components/ProductsList/ProductsList'
+import { RollyList } from '../../../../modules/RollyList'
 
 const RollyPage = () => {
 	return (
 			<div>
-				<ProductsList/>
-
+				<RollyList/>
 			</div>
 	)
 }

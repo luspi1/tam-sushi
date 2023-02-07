@@ -7,15 +7,18 @@ interface IProductItemProps {
 	title: string,
 	desc: string,
 	price: number,
-	img: string
+	img: string,
 }
 
 const ProductItem: FC<IProductItemProps> = ({title, price, desc, img}) => {
 	return (
 			<li className={styles.productItem}>
-				<img className={styles.productImg} src={img} alt={title}/>
-				<h3 className={styles.productTitle}>{title}</h3>
-				<p className={styles.productDesc}>{desc}</p>
+				<div>
+					<img className={styles.productImg} src={img} alt={title}/>
+					<h3 className={styles.productTitle}>{title}</h3>
+					<p className={styles.productDesc}>{desc}</p>
+				</div>
+
 				<div className={styles.productBottom}>
 					<p className={styles.productPrice}>{price} ₽</p>
 					<div className={styles.productControllers}>

@@ -1,17 +1,22 @@
 .productItem {
     width: 280px;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
 }
 
 .productImg {
     width: 260px;
     border-radius: 10px;
+    margin-bottom: 15px;
 }
 
 .productTitle {
     font-size: 24px;
     color: #FFBA08;
-    margin-bottom: 5px;
+    margin-bottom: 10px;
+    line-height: 30px;
 }
 
 .productDesc {

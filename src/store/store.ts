@@ -1,11 +1,13 @@
 import { configureStore } from '@reduxjs/toolkit'
 import { categoryReducer } from '../modules/HomeCategories'
 import { useDispatch } from 'react-redux'
+import { rollyReducer } from '../modules/RollyList'
 
 
 export const store = configureStore({
 	reducer: {
-		categories: categoryReducer
+		categories: categoryReducer,
+		rolly: rollyReducer
 	}
 })
 
