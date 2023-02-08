@@ -2,12 +2,14 @@ import { configureStore } from '@reduxjs/toolkit'
 import { categoryReducer } from '../modules/HomeCategories'
 import { useDispatch } from 'react-redux'
 import { rollyReducer } from '../modules/RollyList'
+import { cartReducer } from '../modules/CartList'
 
 
 export const store = configureStore({
 	reducer: {
 		categories: categoryReducer,
-		rolly: rollyReducer
+		rolly: rollyReducer,
+		cart: cartReducer
 	}
 })
 

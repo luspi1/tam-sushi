@@ -1,9 +1,10 @@
 import React, { FC } from 'react'
+import { CartList } from '../../../modules/CartList'
 
 const Cart: FC = () => {
 	return (
 			<div>
-				Корзина
+				<CartList/>
 			</div>
 	)
 }

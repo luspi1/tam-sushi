@@ -1,0 +1,23 @@
+.cartEmpty {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.cartEmpty img {
+    width: 200px;
+    height: 200px;
+    margin-bottom: 30px;
+    border-radius: 50%;
+}
+
+.cartEmpty h2 {
+    font-size: 45px;
+    color: #ffffff;
+    margin-bottom: 30px;
+}
+
+.cartEmpty a {
+    color: #ffffff;
+    font-size: 24px;
+}

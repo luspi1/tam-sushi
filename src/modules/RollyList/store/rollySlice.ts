@@ -24,7 +24,7 @@ export const rollySlice = createSlice({
 	reducers: {
 		setItems: (state, {payload}) => {
 			state.items = payload
-		}
+		},
 	},
 
 	extraReducers: (builder) => {

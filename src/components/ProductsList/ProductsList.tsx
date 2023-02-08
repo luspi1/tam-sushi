@@ -18,7 +18,7 @@ const ProductsList: FC<IProductsListProps> = ({dataList}) => {
 									<ProductItem key={el.id} title={el.name}
 									             desc={el.description}
 									             img={el.image}
-									             price={el.price}/>
+									             price={el.price} />
 							))
 					) : <h2>нет данных</h2>
 				}

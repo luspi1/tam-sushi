@@ -1,16 +1,37 @@
 import React, { FC } from 'react'
 import styles from './style.module.css'
-import plusIcon from '../../assets/plus.svg'
-import minusIcon from '../../assets/minus.svg'
+import { ProductCounter } from '../../UI/Counter/ProductCounter'
+import { useAppDispatch } from '../../store/store'
+import { addCartItem, removeCartItem } from '../../modules/CartList/store/CartSlice'
 
 interface IProductItemProps {
 	title: string,
 	desc: string,
 	price: number,
 	img: string,
+	amount?: number,
+	id: number
 }
 
-const ProductItem: FC<IProductItemProps> = ({title, price, desc, img}) => {
+const ProductItem: FC<IProductItemProps> = ({title, price, desc, img, amount, id}) => {
+
+	const dispatch = useAppDispatch()
+
+	const newItem = {
+		title,
+		price,
+		desc,
+		img,
+		amount
+	}
+	const createItem = () => {
+		dispatch(addCartItem(newItem))
+	}
+
+	const deleteItem = () => {
+		dispatch(removeCartItem(newItem))
+	}
+
 	return (
 			<li className={styles.productItem}>
 				<div>
@@ -21,14 +42,8 @@ const ProductItem: FC<IProductItemProps> = ({title, price, desc, img}) => {
 
 				<div className={styles.productBottom}>
 					<p className={styles.productPrice}>{price} ₽</p>
-					<div className={styles.productControllers}>
-						<button><img src={minusIcon} alt="убавить"/></button>
-						<span>0</span>
-						<button><img src={plusIcon} alt="добавить"/></button>
-					</div>
+					<ProductCounter amount={0} addEvent={createItem} removeEvent={deleteItem}/>
 				</div>
-
-
 			</li>
 	)
 }
