@@ -2,27 +2,35 @@ import React, { FC } from 'react'
 import styles from './style.module.css'
 import { ProductCounter } from '../../UI/Counter/ProductCounter'
 import { useAppDispatch } from '../../store/store'
-import { addCartItem, removeCartItem } from '../../modules/CartList/store/CartSlice'
+import {
+	addCartItem,
+	removeCartItem,
+	selectCartItemById
+} from '../../modules/CartList/store/CartSlice'
+import { useSelector } from 'react-redux'
 
 interface IProductItemProps {
-	title: string,
+	name: string,
 	desc: string,
 	price: number,
-	img: string,
+	image: string,
 	amount?: number,
 	id: number
 }
 
-const ProductItem: FC<IProductItemProps> = ({title, price, desc, img, amount, id}) => {
+const ProductItem: FC<IProductItemProps> = ({name, price, desc, image, amount, id}) => {
 
 	const dispatch = useAppDispatch()
 
+	const cartItem = useSelector(selectCartItemById(id))
+
 	const newItem = {
-		title,
+		name,
 		price,
 		desc,
-		img,
-		amount
+		image,
+		amount,
+		id
 	}
 	const createItem = () => {
 		dispatch(addCartItem(newItem))
@@ -35,14 +43,14 @@ const ProductItem: FC<IProductItemProps> = ({title, price, desc, img, amount, id
 	return (
 			<li className={styles.productItem}>
 				<div>
-					<img className={styles.productImg} src={img} alt={title}/>
-					<h3 className={styles.productTitle}>{title}</h3>
+					<img className={styles.productImg} src={image} alt={name}/>
+					<h3 className={styles.productTitle}>{name}</h3>
 					<p className={styles.productDesc}>{desc}</p>
 				</div>
 
 				<div className={styles.productBottom}>
 					<p className={styles.productPrice}>{price} ₽</p>
-					<ProductCounter amount={0} addEvent={createItem} removeEvent={deleteItem}/>
+					<ProductCounter amount={cartItem?.amount || 0} addEvent={createItem} removeEvent={deleteItem}/>
 				</div>
 			</li>
 	)

@@ -15,10 +15,11 @@ const ProductsList: FC<IProductsListProps> = ({dataList}) => {
 				{
 					dataList ? (
 							dataList.map((el: IProduct) => (
-									<ProductItem key={el.id} title={el.name}
+									<ProductItem key={el.id} name={el.name}
 									             desc={el.description}
-									             img={el.image}
-									             price={el.price} />
+									             image={el.image}
+									             amount={el.amount}
+									             price={el.price}  id={el.id}/>
 							))
 					) : <h2>нет данных</h2>
 				}

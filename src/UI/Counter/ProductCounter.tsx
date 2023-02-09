@@ -4,7 +4,7 @@ import minusIcon from '../../assets/minus.svg'
 import plusIcon from '../../assets/plus.svg'
 
 interface IProductCounter {
-	amount?: number,
+	amount: number,
 	addEvent: () => void,
 	removeEvent: () => void
 }
