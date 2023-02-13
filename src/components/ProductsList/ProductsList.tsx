@@ -19,7 +19,7 @@ const ProductsList: FC<IProductsListProps> = ({dataList}) => {
 									             desc={el.description}
 									             image={el.image}
 									             amount={el.amount}
-									             price={el.price}  id={el.id}/>
+									             price={el.price}  id={el.id} category={el.category_slug}/>
 							))
 					) : <h2>нет данных</h2>
 				}

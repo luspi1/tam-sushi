@@ -21,12 +21,34 @@
 .headerTopList a {
     font-size: 18px;
     color: #ffffff;
+}
+
+.headerTopList a span {
     transition: all .3s;
 }
 
-.headerTopList a:hover {
+.headerTopList a:hover span {
     color: #FFBA08;
     text-decoration: underline;
 }
 
+.headerCartAmount {
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFBA08;
+    border-radius: 50%;
+    border: 1px solid #ffffff;
+    margin-right: 5px;
+}
 
+@media (max-width: 768px) {
+    .headerTopList {
+        flex-direction: column;
+    }
+    .headerTopList li {
+        margin-bottom: 15px;
+    }
+}

@@ -12,6 +12,11 @@
     margin-right: 15px;
 }
 
+.productCounter button {
+    width: 25px;
+    height: 25px;
+}
+
 .productCounter button img {
     width: 25px;
     height: 25px;

@@ -16,8 +16,7 @@ interface CartSliceState {
 }
 
 const foldSum = (arr: ICartProduct[]) => {
-	const sum = arr.reduce(((acc: number, el: ICartProduct) => acc + el.price * el.amount), 0)
-	return sum
+	return  arr.reduce(((acc: number, el: ICartProduct) => acc + el.price * el.amount), 0)
 }
 
 const initialState: CartSliceState = {
@@ -63,5 +62,7 @@ export const {addCartItem, removeCartItem, clearCart} = cartSlice.actions
 // Селекты
 export const selectAllCart = (state: RootState) => state.cart.items
 export const selectTotalPrice = (state: RootState) => state.cart.totalPrice
+
+export const selectAmountProducts = (state: RootState) => state.cart.items.length
 
 export const selectCartItemById = (id: number) => (state: RootState) => state.cart.items.find(el => el.id === id)

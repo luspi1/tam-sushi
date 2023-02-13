@@ -8,6 +8,7 @@ import {
 	selectCartItemById
 } from '../../modules/CartList/store/CartSlice'
 import { useSelector } from 'react-redux'
+import { Link } from 'react-router-dom'
 
 interface IProductItemProps {
 	name: string,
@@ -15,10 +16,11 @@ interface IProductItemProps {
 	price: number,
 	image: string,
 	amount?: number,
-	id: number
+	id: number,
+	category: string
 }
 
-const ProductItem: FC<IProductItemProps> = ({name, price, desc, image, amount, id}) => {
+const ProductItem: FC<IProductItemProps> = ({name, price, desc, image, amount, id, category}) => {
 
 	const dispatch = useAppDispatch()
 
@@ -30,7 +32,8 @@ const ProductItem: FC<IProductItemProps> = ({name, price, desc, image, amount, i
 		desc,
 		image,
 		amount,
-		id
+		id,
+		category
 	}
 	const createItem = () => {
 		dispatch(addCartItem(newItem))
@@ -42,11 +45,11 @@ const ProductItem: FC<IProductItemProps> = ({name, price, desc, image, amount, i
 
 	return (
 			<li className={styles.productItem}>
-				<div>
+				<Link to={`/${category}/${id}`}>
 					<img className={styles.productImg} src={image} alt={name}/>
 					<h3 className={styles.productTitle}>{name}</h3>
 					<p className={styles.productDesc}>{desc}</p>
-				</div>
+				</Link>
 
 				<div className={styles.productBottom}>
 					<p className={styles.productPrice}>{price} ₽</p>

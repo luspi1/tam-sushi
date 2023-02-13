@@ -3,13 +3,17 @@ import { categoryReducer } from '../modules/HomeCategories'
 import { useDispatch } from 'react-redux'
 import { rollyReducer } from '../modules/RollyList'
 import { cartReducer } from '../modules/CartList'
+import { pizzaReducer } from '../modules/PizzaList'
+import { soupReducer } from '../modules/SoupList'
 
 
 export const store = configureStore({
 	reducer: {
 		categories: categoryReducer,
 		rolly: rollyReducer,
-		cart: cartReducer
+		pizza: pizzaReducer,
+		cart: cartReducer,
+		soup: soupReducer
 	}
 })
 
