@@ -6,7 +6,7 @@ import { createAsyncThunk } from '@reduxjs/toolkit'
 export const fetchCategories = createAsyncThunk<ICategory[]>(
 		'category/fetchCategories',
 		async () => {
-			const response = await axios.get<ICategory[]>(`categories`)
+			const response = await axios.get<ICategory[]>(`categories.json`)
 			return response.data
 		}
 )

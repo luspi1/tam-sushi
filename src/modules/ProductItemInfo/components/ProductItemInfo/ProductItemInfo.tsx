@@ -34,10 +34,10 @@ export const ProductItemInfo: FC = () => {
 	}
 
 	useEffect(() => {
-		fetchOneProduct(pathname)
+		fetchOneProduct(productId)
 				.then(data => setOneProduct(data))
 
-	}, [pathname])
+	}, [id])
 
 
 	return (

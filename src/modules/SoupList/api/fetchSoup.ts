@@ -7,7 +7,7 @@ import { IProduct } from '../../../types/types'
 export const fetchSoup = createAsyncThunk<IProduct[]>(
 		'rolly/fetchSoup',
 		async () => {
-			const response = await axios.get<IProduct[]>(`soup`)
+			const response = await axios.get<IProduct[]>(`soup.json`)
 			return response.data
 		}
 )
