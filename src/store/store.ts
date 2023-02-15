@@ -5,6 +5,7 @@ import { rollyReducer } from '../modules/RollyList'
 import { cartReducer } from '../modules/CartList'
 import { pizzaReducer } from '../modules/PizzaList'
 import { soupReducer } from '../modules/SoupList'
+import { userReducer } from '../modules/User'
 
 
 export const store = configureStore({
@@ -13,7 +14,8 @@ export const store = configureStore({
 		rolly: rollyReducer,
 		pizza: pizzaReducer,
 		cart: cartReducer,
-		soup: soupReducer
+		soup: soupReducer,
+		user: userReducer
 	}
 })
 
