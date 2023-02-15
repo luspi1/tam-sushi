@@ -5,6 +5,7 @@ import { selectAllCategories, selectStatusCategory, Status } from '../../store/c
 import { useSelector } from 'react-redux'
 import { fetchCategories } from '../../api/fetchCategories'
 import { useAppDispatch } from '../../../../store/store'
+import Loader from '../../../../UI/Loader/Loader'
 
 export const HomeCategories: FC = () => {
 
@@ -27,7 +28,7 @@ export const HomeCategories: FC = () => {
 					}
 				</ul>
 				{
-						statusCategory === Status.LOADING && <h2>Загрузка....</h2>
+						statusCategory === Status.LOADING && <Loader/>
 				}
 				{
 						statusCategory === Status.ERROR && <h2>Произошла ошибка!!!</h2>

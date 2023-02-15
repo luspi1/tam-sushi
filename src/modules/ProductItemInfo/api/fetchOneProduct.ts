@@ -2,7 +2,7 @@ import axios from '../../../config/axiosInstance'
 import { IProduct } from '../../../types/types'
 
 
-export const fetchOneProduct = async (id: number) => {
-	const response = await axios.get<IProduct>(`.json?orderBy="id"&equalTo=${id}`)
+export const fetchProductsOnCategory = async (category: string) => {
+	const response = await axios.get<IProduct[]>(`${category}.json`)
 	return response.data
 }
