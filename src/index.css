@@ -78,16 +78,5 @@ textarea {
     padding: 0 15px;
 }
 
-.icon {
-    display: flex;
-    align-items: center;
-}
-
-.icon img {
-    width: 27px;
-    height: 27px;
-    margin-right: 7px;
-}
-
 
 

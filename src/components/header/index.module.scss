@@ -1,0 +1,52 @@
+.header {
+  padding: 10px 0;
+  border-bottom: 1px solid #FFBA08;
+}
+
+
+.headerTopLogo {
+  width: 100px;
+  height: 100px;
+}
+
+.headerTopList {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 15px;
+
+  li {
+    a {
+      display: flex;
+      align-items: center;
+
+      svg {
+        margin-right: 5px;
+      }
+    }
+
+  }
+
+  a {
+    font-size: 18px;
+    color: #ffffff;
+
+    span {
+      transition: all .3s;
+    }
+  }
+
+  a:hover span {
+    color: #FFBA08;
+    text-decoration: underline;
+  }
+}
+
+
+@media (max-width: 768px) {
+  .headerTopList {
+    flex-direction: column;
+  }
+
+}
