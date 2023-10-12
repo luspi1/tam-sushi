@@ -1,10 +1,10 @@
 import React, { FC } from 'react'
-import styles from './index.module.css'
-import minusIcon from '../../assets/minus.svg'
-import plusIcon from '../../assets/plus.svg'
+import styles from './index.module.scss'
+import { MinusSvg } from 'src/UI/icons/minusSVG'
+import { PlusSvg } from 'src/UI/icons/plusSVG'
 
 type ProductCounterProps = {
-	amount: number
+	amount?: number
 	className?: string
 	addEvent: () => void
 	removeEvent: () => void
@@ -19,11 +19,11 @@ export const ProductCounter: FC<ProductCounterProps> = ({
 	return (
 		<div className={className ? `${styles.productCounter} ${className}` : styles.productCounter}>
 			<button onClick={removeEvent}>
-				<img src={minusIcon} alt='убавить' />
+				<MinusSvg />
 			</button>
-			<span>{amount || 0}</span>
+			<span>{amount ?? 0}</span>
 			<button onClick={addEvent}>
-				<img src={plusIcon} alt='добавить' />
+				<PlusSvg />
 			</button>
 		</div>
 	)

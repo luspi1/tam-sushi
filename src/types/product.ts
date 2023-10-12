@@ -14,3 +14,11 @@ export type CategoryItemType = {
 	name: string
 	slug: string
 }
+
+export type CartProduct = {
+	name: string
+	id: number
+	image: string
+	price: number
+	amount: number
+}

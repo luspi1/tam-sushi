@@ -1,5 +1,5 @@
-import { index } from 'src/store'
+import { store } from 'src/store'
 
-export type State = ReturnType<typeof index.getState>
+export type State = ReturnType<typeof store.getState>
 
-export type AppDispatch = typeof index.dispatch
+export type AppDispatch = typeof store.dispatch

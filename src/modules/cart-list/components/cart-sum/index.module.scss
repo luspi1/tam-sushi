@@ -1,16 +1,18 @@
 .cartSum {
-    display: flex;
-    justify-content: space-between;
-    padding: 30px 0;
-}
+  display: flex;
+  justify-content: space-between;
+  padding: 30px 0;
 
-.cartSum h3 {
+  h3 {
     font-size: 32px;
     color: #ffffff;
-}
+  }
 
-.cartSum p {
+  p {
     font-size: 24px;
     color: #FFBA08;
     text-decoration: underline;
+  }
+
 }
+

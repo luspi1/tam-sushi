@@ -1,10 +1,14 @@
 // Селекты
-import { RootState } from 'src/store'
 
-export const selectAllCart = (state: RootState) => state.cart.items
-export const selectTotalPrice = (state: RootState) => state.cart.totalPrice
+import { State } from 'src/types/state'
+import { NameSpace } from 'src/helpers/consts'
 
-export const selectAmountProducts = (state: RootState) => state.cart.items.length
+export const selectAllCart = (state: State) => state[NameSpace.Cart].items
+export const selectTotalPrice = (state: State) => state[NameSpace.Cart].totalPrice
 
-export const selectCartItemById = (id: number) => (state: RootState) =>
-	state.cart.items.find((el) => el.id === id)
+export const selectAmountProducts = (state: State) => state[NameSpace.Cart].items.length
+
+export const selectCartItemById = (id: number) => (state: State) =>
+	state[NameSpace.Cart].items.find((el) => el.id === id)
+
+export const selectOneProduct = (state: State) => state[NameSpace.Cart].oneProduct

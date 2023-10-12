@@ -1,16 +1,15 @@
 import { FC } from 'react'
 import styles from './index.module.css'
-import { useAppDispatch } from 'src/store'
-import MainButton from 'src/UI/main-button/MainButton'
-import { clearCart } from 'src/modules/cart-list/store/cart.slice'
+import { MainButton } from 'src/UI/main-button/main-button'
+import { useActions } from 'src/hooks/actions/actions'
 
 export const CartTitle: FC = () => {
-	const dispatch = useAppDispatch()
+	const { clearCart } = useActions()
 
 	return (
 		<div className={styles.cartTitle}>
 			<h1>Корзина:</h1>
-			<MainButton onClick={() => dispatch(clearCart())}>Очистить корзину</MainButton>
+			<MainButton onClick={clearCart}>Очистить корзину</MainButton>
 		</div>
 	)
 }

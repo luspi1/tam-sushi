@@ -8,6 +8,8 @@ import { PizzasPage } from 'src/pages/pizzas-page/pizzas-page'
 import { RollyPage } from 'src/pages/rolly-page/rolly-page'
 import { SoupPage } from 'src/pages/soup-page/soup-page'
 import { CartPage } from 'src/pages/cart-page/cart-page'
+import { OneProductPage } from 'src/pages/one-product-page/one-product-page'
+import { LoginPage } from 'src/pages/login-page/login-page'
 
 const router = createBrowserRouter([
 	{
@@ -21,16 +23,32 @@ const router = createBrowserRouter([
 				element: <HomePage />,
 			},
 			{
+				path: AppRoute.Auth,
+				element: <LoginPage />,
+			},
+			{
 				path: AppRoute.Pizzas,
 				element: <PizzasPage />,
+			},
+			{
+				element: <OneProductPage />,
+				path: AppRoute.PizzaItem,
 			},
 			{
 				path: AppRoute.Rolly,
 				element: <RollyPage />,
 			},
 			{
+				element: <OneProductPage />,
+				path: AppRoute.RollyItem,
+			},
+			{
 				path: AppRoute.Soup,
 				element: <SoupPage />,
+			},
+			{
+				element: <OneProductPage />,
+				path: AppRoute.SoupItem,
 			},
 			{
 				path: AppRoute.Cart,

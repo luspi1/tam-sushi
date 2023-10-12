@@ -1,10 +1,9 @@
 import React, { FC } from 'react'
 import styles from './index.module.css'
-import { ProductCounter } from 'src/components/product-counter/ProductCounter'
-import { useSelector } from 'react-redux'
-import { useAppDispatch } from 'src/store'
 import { selectCartItemById } from 'src/modules/cart-list/store/cart.selectors'
-import { addCartItem } from 'src/modules/cart-list/store/cart.slice'
+import { useAppSelector } from 'src/hooks/store'
+import { useActions } from 'src/hooks/actions/actions'
+import { ProductCounter } from 'src/components/product-counter/product-counter'
 
 interface ICartItemProps {
 	img: string
@@ -15,17 +14,17 @@ interface ICartItemProps {
 }
 
 export const CartItem: FC<ICartItemProps> = ({ img, title, price, amount, id }) => {
-	const dispatch = useAppDispatch()
-	const cartItem = useSelector(selectCartItemById(id))
+	const cartItem = useAppSelector(selectCartItemById(id))
 
-	const createItem = () => {
-		dispatch(addCartItem(cartItem))
+	const { addCartItem, removeCartItem } = useActions()
+
+	const currentItem = {
+		id,
+		name: title,
+		price,
+		image: img,
+		amount,
 	}
-
-	const deleteItem = () => {
-		dispatch(removeCartItem(cartItem))
-	}
-
 	return (
 		<li className={styles.cartItem}>
 			<div className={styles.cartInfo}>
@@ -36,8 +35,8 @@ export const CartItem: FC<ICartItemProps> = ({ img, title, price, amount, id }) 
 				<p className={styles.cartPrice}>{price} ₽</p>
 				<ProductCounter
 					amount={cartItem?.amount || 0}
-					addEvent={createItem}
-					removeEvent={deleteItem}
+					addEvent={() => addCartItem(currentItem)}
+					removeEvent={() => removeCartItem(currentItem)}
 				/>
 			</div>
 		</li>

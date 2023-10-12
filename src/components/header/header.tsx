@@ -5,8 +5,11 @@ import { CartSvg } from 'src/UI/icons/cartSVG'
 import { AccountSvg } from 'src/UI/icons/accountSVG'
 import { PhoneSvg } from 'src/UI/icons/phoneSVG'
 import { AppRoute } from 'src/helpers/consts'
+import { useAppSelector } from 'src/hooks/store'
+import { selectAmountProducts } from 'src/modules/cart-list/store/cart.selectors'
 
 export const Header = () => {
+	const cartAmount = useAppSelector(selectAmountProducts)
 	return (
 		<header className={styles.header}>
 			<div className='container'>
@@ -26,6 +29,7 @@ export const Header = () => {
 						<Link to={AppRoute.Cart}>
 							<CartSvg />
 							<span>Корзина</span>
+							<p className={styles.cartCounter}>{cartAmount}</p>
 						</Link>
 					</li>
 					<li>

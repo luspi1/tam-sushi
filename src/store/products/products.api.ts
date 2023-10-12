@@ -14,7 +14,12 @@ export const productsApi = createApi({
 				url: category,
 			}),
 		}),
+		getProduct: build.query<ProductItemType, string>({
+			query: (id) => ({
+				url: `one-product/${id}`,
+			}),
+		}),
 	}),
 })
 
-export const { useGetProductsByCategoryQuery } = productsApi
+export const { useGetProductsByCategoryQuery, useGetProductQuery } = productsApi

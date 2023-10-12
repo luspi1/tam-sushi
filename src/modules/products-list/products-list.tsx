@@ -12,7 +12,7 @@ export const ProductsList: FC<ProductsListProps> = ({ dataList }) => {
 	return (
 		<ul className={styles.productsList}>
 			{dataList.length > 0 ? (
-				dataList?.map((el) => <ProductItem {...el} key={el.id} />)
+				dataList?.map((el) => <ProductItem {...el} amount={el.amount ?? 0} key={el.id} />)
 			) : (
 				<Loader />
 			)}
