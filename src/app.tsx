@@ -1,4 +1,4 @@
-import React, { FC } from 'react'
+import React, { FC, useEffect } from 'react'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import { ErrorPage } from 'src/pages/error-page/error-page'
 import { Layout } from 'src/modules/layout/layout'
@@ -58,6 +58,7 @@ const router = createBrowserRouter([
 	},
 ])
 
+useEffect(() => {}, [])
 const App: FC = () => {
 	return <RouterProvider router={router} />
 }

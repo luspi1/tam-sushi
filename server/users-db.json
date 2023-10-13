@@ -1,3 +1,12 @@
 {
-  "users": []
+  "users": [
+    {
+      "email": "igbabin566@gmail.com",
+      "password": "$2a$10$mCXpjJ92Ltr98DAhLxZtCeorIHaMVo7o6HxTSTGmIxi4RYqXwhOW6",
+      "name": "Игорь",
+      "lastname": "Бабин",
+      "age": "26",
+      "id": 1
+    }
+  ]
 }

@@ -14,4 +14,5 @@ export enum AppRoute {
 export enum NameSpace {
 	Products = 'PRODUCTS',
 	Cart = 'CART',
+	Auth = 'AUTH',
 }

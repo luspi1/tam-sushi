@@ -7,9 +7,15 @@ import { PhoneSvg } from 'src/UI/icons/phoneSVG'
 import { AppRoute } from 'src/helpers/consts'
 import { useAppSelector } from 'src/hooks/store'
 import { selectAmountProducts } from 'src/modules/cart-list/store/cart.selectors'
+import { getCurrentUser } from 'src/store/auth/auth.selectors'
+import { MainButton } from 'src/UI/main-button/main-button'
+import { useActions } from 'src/hooks/actions/actions'
 
 export const Header = () => {
+	const { logoutUser } = useActions()
+
 	const cartAmount = useAppSelector(selectAmountProducts)
+	const currentUser = useAppSelector(getCurrentUser)
 	return (
 		<header className={styles.header}>
 			<div className='container'>
@@ -33,10 +39,17 @@ export const Header = () => {
 						</Link>
 					</li>
 					<li>
-						<Link to='/auth'>
-							<AccountSvg />
-							<span>Войти</span>
-						</Link>
+						{currentUser ? (
+							<div className={styles.authUser}>
+								<span>{currentUser?.name ?? 'Пользователь'}</span>
+								<MainButton onClick={() => logoutUser()}>Выйти</MainButton>
+							</div>
+						) : (
+							<Link to='/auth'>
+								<AccountSvg />
+								<span>Войти</span>
+							</Link>
+						)}
 					</li>
 				</ul>
 			</div>
