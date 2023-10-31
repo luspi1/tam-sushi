@@ -5,6 +5,7 @@ export type User = {
 	name: string
 	lastname: string
 	password: string
+	token: string
 }
 
 export type authResponseData = {

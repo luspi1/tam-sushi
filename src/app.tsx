@@ -10,6 +10,10 @@ import { SoupPage } from 'src/pages/soup-page/soup-page'
 import { CartPage } from 'src/pages/cart-page/cart-page'
 import { OneProductPage } from 'src/pages/one-product-page/one-product-page'
 import { LoginPage } from 'src/pages/login-page/login-page'
+import { useActions } from 'src/hooks/actions/actions'
+import { useLazyCheckUserQuery, useLazyGetUserQuery } from 'src/store/auth/auth.api'
+import { jwtDecode } from 'jwt-decode'
+import { OrderPage } from 'src/pages/order-page/order-page'
 
 const router = createBrowserRouter([
 	{
@@ -25,6 +29,10 @@ const router = createBrowserRouter([
 			{
 				path: AppRoute.Auth,
 				element: <LoginPage />,
+			},
+			{
+				path: AppRoute.Order,
+				element: <OrderPage />,
 			},
 			{
 				path: AppRoute.Pizzas,
@@ -58,8 +66,23 @@ const router = createBrowserRouter([
 	},
 ])
 
-useEffect(() => {}, [])
 const App: FC = () => {
+	const { checkLoginUser, logoutUser } = useActions()
+	const [checkUser] = useLazyCheckUserQuery()
+	const [getUser] = useLazyGetUserQuery()
+	useEffect(() => {
+		;(async () => {
+			const userInfo = await checkUser(null)
+			const token = localStorage.getItem('token')
+			if (userInfo.data && token) {
+				const decodedToken = jwtDecode(token)
+				const user = await getUser(decodedToken.sub ?? '')
+				checkLoginUser(user.data)
+			} else {
+				logoutUser()
+			}
+		})()
+	}, [])
 	return <RouterProvider router={router} />
 }
 

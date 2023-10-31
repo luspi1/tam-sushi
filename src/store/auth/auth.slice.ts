@@ -1,7 +1,7 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
 import { User } from 'src/types/users'
 import { NameSpace } from 'src/helpers/consts'
-import { dropToken } from 'src/helpers/token'
+import { dropToken, saveToken } from 'src/helpers/token'
 
 type AuthSliceState = {
 	currentUser: User | null
@@ -17,6 +17,10 @@ export const authSlice = createSlice({
 	reducers: {
 		loginUser: (state, action: PayloadAction<User>) => {
 			state.currentUser = action.payload
+			saveToken(action.payload.token)
+		},
+		checkLoginUser: (state, action: PayloadAction<User | undefined>) => {
+			state.currentUser = action.payload ?? null
 		},
 		logoutUser: (state) => {
 			state.currentUser = null

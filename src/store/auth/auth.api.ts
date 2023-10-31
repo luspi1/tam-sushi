@@ -6,6 +6,12 @@ export const authApi = createApi({
 	tagTypes: ['Auth'],
 	baseQuery: fetchBaseQuery({
 		baseUrl: 'http://localhost:4444',
+		prepareHeaders: (headers) => {
+			const token = localStorage.getItem('token')
+			if (token) {
+				headers.set('Authorization', `Bearer ${token}`)
+			}
+		},
 	}),
 	endpoints: (build) => ({
 		regUser: build.mutation({
@@ -27,11 +33,25 @@ export const authApi = createApi({
 		getAllUsers: build.query<User[], null>({
 			query: () => ({
 				url: '/users',
-				method: 'GET',
 			}),
 			providesTags: ['Auth'],
+		}),
+		checkUser: build.query({
+			query: () => ({
+				url: '660/check',
+			}),
+		}),
+		getUser: build.query<User, string>({
+			query: (id) => ({
+				url: `660/users/${id}`,
+			}),
 		}),
 	}),
 })
 
-export const { useRegUserMutation, useGetAllUsersQuery, useLoginUserMutation } = authApi
+export const {
+	useRegUserMutation,
+	useLoginUserMutation,
+	useLazyCheckUserQuery,
+	useLazyGetUserQuery,
+} = authApi

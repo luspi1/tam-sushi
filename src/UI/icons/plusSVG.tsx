@@ -13,7 +13,7 @@ export const PlusSvg = () => {
 				<circle
 					cx='64'
 					cy='64'
-					r='45'
+					r='59'
 					fill='#ffba08'
 					opacity='1'
 					data-original='#fcbc40'

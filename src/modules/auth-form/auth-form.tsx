@@ -7,7 +7,6 @@ import styles from './index.module.scss'
 import { useLoginUserMutation, useRegUserMutation } from 'src/store/auth/auth.api'
 import { AlertMessage } from 'src/components/alert-message/alert-message'
 import { authResponseData } from 'src/types/users'
-import { saveToken } from 'src/helpers/token'
 import { useActions } from 'src/hooks/actions/actions'
 import { useNavigate } from 'react-router-dom'
 import { AppRoute } from 'src/helpers/consts'
@@ -50,8 +49,7 @@ export const AuthForm: FC = () => {
 			if (response.error) {
 				setAlert(response.error.data)
 			} else if (response.data) {
-				saveToken(response.data?.accessToken)
-				loginUser(response.data?.user)
+				loginUser({ ...response.data?.user, token: response.data?.accessToken })
 				navigate(AppRoute.Home)
 			}
 		} catch (error) {
