@@ -38,7 +38,9 @@ export const ProductItem: FC<ProductItemProps> = ({
 	return (
 		<li className={styles.productItem}>
 			<Link to={String(id)}>
-				<img className={styles.productImg} src={image} alt={name} />
+				<div className={styles.productImg}>
+					<img src={image} alt={name} />
+				</div>
 				<h3 className={styles.productTitle}>{name}</h3>
 				<p className={styles.productDesc}>{description}</p>
 			</Link>

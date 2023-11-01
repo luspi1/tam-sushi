@@ -1,5 +1,5 @@
 import React, { FC } from 'react'
-import styles from './index.module.css'
+import styles from './index.module.scss'
 import { selectCartItemById } from 'src/modules/cart-list/store/cart.selectors'
 import { useAppSelector } from 'src/hooks/store'
 import { useActions } from 'src/hooks/actions/actions'
@@ -28,7 +28,9 @@ export const CartItem: FC<ICartItemProps> = ({ img, title, price, amount, id }) 
 	return (
 		<li className={styles.cartItem}>
 			<div className={styles.cartInfo}>
-				<img src={img} alt={title} />
+				<div className={styles.cartPreview}>
+					<img src={img} alt={title} />
+				</div>
 				<h3>{title}</h3>
 			</div>
 			<div className={styles.cartControl}>
