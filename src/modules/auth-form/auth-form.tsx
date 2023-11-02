@@ -22,12 +22,7 @@ export const AuthForm: FC = () => {
 
 	const navigate = useNavigate()
 	const cx = cnBind.bind(styles)
-	const {
-		register,
-		handleSubmit,
-		formState: { errors },
-		reset,
-	} = useForm()
+	const { register, handleSubmit, reset } = useForm()
 
 	const toggleFormType = (isReg: boolean) => {
 		setIsAuth(isReg)

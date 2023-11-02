@@ -83,5 +83,10 @@ img {
     padding: 0 15px;
 }
 
+._disabled {
+    opacity: 0.5;
+    pointer-events: none;
+}
+
 
 

@@ -1,13 +1,14 @@
 {
+  "root": true,
   "parser": "@typescript-eslint/parser",
   "env": {
     "browser": true,
     "es2021": true
   },
   "extends": [
+    "eslint:recommended",
     "plugin:@typescript-eslint/recommended",
-    "plugin:react/recommended",
-    "standard-with-typescript",
+    "plugin:react-hooks/recommended",
     "prettier"
   ],
   "overrides": [
@@ -29,7 +30,6 @@
     "sourceType": "module"
   },
   "plugins": [
-    "react",
     "@typescript-eslint",
     "prettier"
   ],

@@ -145,7 +145,7 @@ export let soups = [
 		'detail_id': 159,
 		'elements': 0,
 		'id': 1623,
-		'image': 'https://korfood.ru/upload/disk/6c7/r2gplhx25pyf01ppq5eu53zpuwrp86r2',
+		'image': 'https://vilkin.pro/wp-content/uploads/2019/07/miso-sup-770x513.jpg',
 		'marking_composition': '',
 		'modification_type': 'default',
 		'modifications': [
@@ -155,7 +155,7 @@ export let soups = [
 				'discount': 0,
 				'full_name': 'Мисо-суп',
 				'id': 1623,
-				'image': 'https://korfood.ru/upload/disk/6c7/r2gplhx25pyf01ppq5eu53zpuwrp86r2',
+				'image': 'https://matcha-japan.com.ua/wp-content/uploads/2020/12/miso.jpg',
 				'marking_composition': '',
 				'mode': '',
 				'name': 'Мисо-суп',
@@ -194,7 +194,7 @@ export let soups = [
 		'detail_id': 160,
 		'elements': 0,
 		'id': 1624,
-		'image': 'https://korfood.ru/upload/disk/6c7/r2gplhx25pyf01ppq5eu53zpuwrp86r2',
+		'image': 'https://matcha-japan.com.ua/wp-content/uploads/2020/12/miso.jpg',
 		'marking_composition': '',
 		'modification_type': 'default',
 		'modifications': [
@@ -243,7 +243,7 @@ export let soups = [
 		'detail_id': 161,
 		'elements': 0,
 		'id': 1625,
-		'image': 'https://korfood.ru/upload/disk/6c7/r2gplhx25pyf01ppq5eu53zpuwrp86r2',
+		'image': 'https://sansushi.md/wp-content/uploads/2021/06/77d57bc6-1b34-43c5-8733-1179ca57672d.jpg',
 		'marking_composition': '',
 		'modification_type': 'default',
 		'modifications': [
