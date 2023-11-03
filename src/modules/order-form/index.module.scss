@@ -1,0 +1,13 @@
+.orderForm {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-width: 600px;
+  input, textarea {
+    width: 100%;
+    padding: 12px;
+    outline: none;
+    border-radius: 5px;
+    border: none;
+  }
+}
